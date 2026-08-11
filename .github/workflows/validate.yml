@@ -1,0 +1,28 @@
+name: validate
+
+on:
+  pull_request:
+    paths:
+      - "registry.json"
+      - "scripts/**"
+  push:
+    branches: [main]
+    paths:
+      - "registry.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate registry.json
+        run: python3 scripts/validate_registry.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

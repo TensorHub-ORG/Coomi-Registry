@@ -1,0 +1,91 @@
+name: 提交 SKILL / MCP / Workflow 到社区注册表
+description: 把你的开源技能提交到 TensorHub 社区注册表，合入后 Coomi App「市场」内可见
+title: "[提交] <技能名称>"
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 提交流程说明
+        1. 填写下方表单（内容必须真实、与仓库一致）
+        2. 维护者将在 1~2 个工作日内评估，通过后由维护者合入 `registry.json`（PR 自动校验）
+        3. 合入后 App 市场页约 10 分钟内可见
+
+        **收录要求**：仓库必须是公开的；SKILL 的 `SKILL.md` 必须存在于仓库根目录或你填写的子目录中；仓库须含开源许可证；不得包含恶意代码、密钥或违规内容。
+  - type: input
+    id: name
+    attributes:
+      label: 名称
+      description: 展示在 App 市场中的名称（英文，简短）
+      placeholder: "例如: Android Debug Assistant"
+    validations:
+      required: true
+  - type: input
+    id: repository
+    attributes:
+      label: GitHub 仓库地址
+      description: 完整 URL，内容必须托管在公开仓库
+      placeholder: "https://github.com/owner/repo"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型
+      description: 提交的内容属于哪一类
+      options:
+        - SKILL
+        - MCP
+        - Workflow
+    validations:
+      required: true
+  - type: input
+    id: ref
+    attributes:
+      label: 分支（可选）
+      description: 默认 main；如果你的内容不在默认分支，请填写分支名
+      placeholder: "main"
+  - type: input
+    id: subdir
+    attributes:
+      label: 子目录（可选）
+      description: 技能文件在仓库中的路径。SKILL 需要 SKILL.md 位于该目录（或仓库根目录）
+      placeholder: "skills/my-skill"
+  - type: textarea
+    id: description
+    attributes:
+      label: 描述
+      description: 一段话说明这个技能能做什么（会展示在市场列表中）
+      placeholder: "这个 SKILL 可以……"
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: 标签（可选）
+      description: 逗号分隔，便于检索，例如: android, debug, adb
+  - type: dropdown
+    id: license
+    attributes:
+      label: 开源许可证
+      description: 你的仓库采用的开源许可证（仓库内须存在 LICENSE 文件）
+      options:
+        - MIT
+        - Apache-2.0
+        - GPL-3.0
+        - BSD-3-Clause
+        - MPL-2.0
+        - 其他（请在描述中说明）
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 承诺
+      options:
+        - label: 我是该仓库的维护者，或已获得授权提交
+          required: true
+        - label: 内容中不含恶意代码、硬编码密钥或违反法律法规的内容
+          required: true
+        - label: 同意 TensorHub 将条目信息（名称/描述/链接/热度）展示在社区注册表中
+          required: true
