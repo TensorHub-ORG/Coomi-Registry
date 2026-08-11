@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-08-11T17:03:01Z",
+  "skills": {
+    "frontend-design": {
+      "stars": 167963,
+      "forks": 20016,
+      "downloads_total": 0,
+      "downloads_30d": 0,
+      "pushed_at": "2026-08-07T17:14:15Z"
+    },
+    "code-review": {
+      "stars": 38715,
+      "forks": 4126,
+      "downloads_total": 0,
+      "downloads_30d": 0,
+      "pushed_at": "2026-08-05T07:11:13Z"
+    }
+  },
+  "mcps": {},
+  "workflows": {}
+}

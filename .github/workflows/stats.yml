@@ -1,0 +1,38 @@
+name: stats
+
+on:
+  schedule:
+    # 每日 02:23 UTC（北京时间 10:23），避开 GitHub API 高峰
+    - cron: "23 2 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "registry.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch GitHub metrics
+        run: python3 scripts/fetch_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit stats-github.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats-github.json
+          if git diff --cached --quiet; then
+            echo "stats unchanged, nothing to commit"
+          else
+            git commit -m "chore: refresh GitHub stats"
+            git push
+          fi
