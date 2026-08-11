@@ -49,33 +49,56 @@ async function increment(kv: KVNamespace, key: string): Promise<void> {
 async function ingest(request: Request, env: Env): Promise<Response> {
   if (request.method === "OPTIONS") return cors(new Response(null, { status: 204 }));
 
-  let body: { event?: unknown; skill_id?: unknown };
+  let body: unknown;
   try {
     body = await request.json();
   } catch {
     return cors(new Response("invalid json", { status: 400 }));
   }
 
-  const event = body.event;
-  const skillId = body.skill_id;
-  if (typeof event !== "string" || !ALLOWED_EVENTS.has(event)) {
-    return cors(new Response("unknown event", { status: 400 }));
+  // 兼容三种格式：批量 `{events: [...]}`、裸数组、单事件对象 `{event, skill_id}`。
+  // 批量格式由 App 端缓冲后合并上报（减少请求数）；单对象格式方便 curl 手动测试。
+  const container = body as { events?: unknown };
+  let rawEvents: unknown[];
+  if (Array.isArray(container.events)) {
+    rawEvents = container.events;
+  } else if (Array.isArray(body)) {
+    rawEvents = body;
+  } else {
+    rawEvents = [body];
   }
-  if (typeof skillId !== "string" || !SKILL_ID_RE.test(skillId)) {
-    return cors(new Response("invalid skill_id", { status: 400 }));
+  if (rawEvents.length === 0 || rawEvents.length > 100) {
+    return cors(new Response("expected 1-100 events", { status: 400 }));
+  }
+
+  // 先整体校验，再写入：避免批量中途失败导致部分计数（客户端会整批重试，可能重复计数）。
+  const events: Array<{ event: string; skillId: string }> = [];
+  for (const raw of rawEvents) {
+    const ev = raw as { event?: unknown; skill_id?: unknown };
+    const event = ev.event;
+    const skillId = ev.skill_id;
+    if (typeof event !== "string" || !ALLOWED_EVENTS.has(event)) {
+      return cors(new Response("unknown event", { status: 400 }));
+    }
+    if (typeof skillId !== "string" || !SKILL_ID_RE.test(skillId)) {
+      return cors(new Response("invalid skill_id", { status: 400 }));
+    }
+    events.push({ event, skillId });
   }
 
   const ip = (request.headers.get("CF-Connecting-IP") ?? "unknown").slice(0, 64);
   const today = dayKey();
   const rlKey = `rl:${ip}:${today}`;
   const used = Number((await env.TELEMETRY.get(rlKey, "text")) ?? "0");
-  if (used >= DAY_CAP) {
+  if (used + events.length > DAY_CAP) {
     return cors(new Response("rate limited", { status: 429 }));
   }
-  await env.TELEMETRY.put(rlKey, String(used + 1));
+  await env.TELEMETRY.put(rlKey, String(used + events.length));
 
-  await increment(env.TELEMETRY, `day:${today}:${event}:${skillId}`);
-  await increment(env.TELEMETRY, `total:${event}:${skillId}`);
+  for (const { event, skillId } of events) {
+    await increment(env.TELEMETRY, `day:${today}:${event}:${skillId}`);
+    await increment(env.TELEMETRY, `total:${event}:${skillId}`);
+  }
   return cors(new Response(null, { status: 204 }));
 }
 
