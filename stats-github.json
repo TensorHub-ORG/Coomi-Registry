@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-08-12T08:55:26Z",
-  "skills": {},
+  "generated_at": "2026-08-12T10:59:15Z",
+  "skills": {
+    "systematic-debugging": {
+      "stars": 271017,
+      "forks": 24219,
+      "downloads_total": 0,
+      "downloads_30d": 0,
+      "pushed_at": "2026-08-12T05:08:28Z"
+    },
+    "requesting-code-review": {
+      "stars": 271017,
+      "forks": 24219,
+      "downloads_total": 0,
+      "downloads_30d": 0,
+      "pushed_at": "2026-08-12T05:08:28Z"
+    }
+  },
   "mcps": {},
   "workflows": {}
 }
