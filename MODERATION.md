@@ -58,7 +58,7 @@ TensorHub 社区注册表运营规范。原则：**内容在贡献者自己的�
 ## 举报与联系渠道
 
 - 举报入口：仓库 Issues（标题前缀「举报」）
-- 联系邮箱：`<维护者邮箱>`（在 README 中公开）
+- 联系邮箱：`septemc.lhc@gmail.com`（已在 README 公开）
 
 ## 免责声明（已在 CONTRIBUTING.md 公开）
 

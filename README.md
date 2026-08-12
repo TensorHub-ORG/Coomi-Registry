@@ -41,7 +41,7 @@ coomi-registry/
 2. 维护者评估后合入注册表（PR 自动校验 + 人工审核）
 3. 合入后 App「市场」页可见，安装量/使用量自动统计
 
-详细要求与审核标准见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+详细要求与审核标准见 [CONTRIBUTING.md](CONTRIBUTING.md)。举报违规条目请联系 `septemc.lhc@gmail.com` 或在 Issues 中提交（标题注明「举报」）。
 
 ## 相关项目
 

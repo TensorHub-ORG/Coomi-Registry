@@ -6,7 +6,7 @@ compatibility_date = "2026-08-11"
 # 把输出的 id 填到下面，然后 npx wrangler deploy
 [[kv_namespaces]]
 binding = "TELEMETRY"
-id = "<namespace-id>"
+id = "18c73072cd404854ad0c4cac04bfb9ab"
 
 [observability]
 enabled = true
