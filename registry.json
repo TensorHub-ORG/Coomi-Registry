@@ -1,7 +1,34 @@
 {
   "version": 1,
   "updated_at": "2026-08-12T00:00:00Z",
-  "skills": [],
+  "skills": [
+    {
+      "id": "systematic-debugging",
+      "name": "Systematic Debugging",
+      "description": "A disciplined, step-by-step process for debugging complex issues: reproduce the failure, isolate the root cause, and verify the fix.",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/systematic-debugging",
+      "author": "obra",
+      "tags": ["debugging", "workflow"],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "requesting-code-review",
+      "name": "Requesting Code Review",
+      "description": "Proactively request and drive code review with a clear, executable request that reviewers can act on.",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/requesting-code-review",
+      "author": "obra",
+      "tags": ["code-review", "workflow"],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    }
+  ],
   "mcps": [],
   "workflows": []
 }
