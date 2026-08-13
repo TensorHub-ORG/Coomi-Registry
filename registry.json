@@ -5,12 +5,15 @@
     {
       "id": "systematic-debugging",
       "name": "Systematic Debugging",
-      "description": "A disciplined, step-by-step process for debugging complex issues: reproduce the failure, isolate the root cause, and verify the fix.",
+      "description": "A disciplined, step-by-step process for debugging complex issues: reproduce the failure, isolate the root cause, and verify the fix. 一套严谨的分步调试流程：复现问题、定位根因、验证修复。",
       "repository": "obra/superpowers",
       "ref": "main",
       "subdir": "skills/systematic-debugging",
       "author": "obra",
-      "tags": ["debugging", "workflow"],
+      "tags": [
+        "debugging",
+        "workflow"
+      ],
       "license": "MIT",
       "verified": false,
       "submitted_at": "2026-08-12"
@@ -18,17 +21,3471 @@
     {
       "id": "requesting-code-review",
       "name": "Requesting Code Review",
-      "description": "Proactively request and drive code review with a clear, executable request that reviewers can act on.",
+      "description": "Proactively request and drive code review with a clear, executable request. 主动发起并推进代码评审，产出清晰可执行的评审请求。",
       "repository": "obra/superpowers",
       "ref": "main",
       "subdir": "skills/requesting-code-review",
       "author": "obra",
-      "tags": ["code-review", "workflow"],
+      "tags": [
+        "code-review",
+        "workflow"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "brainstorming",
+      "name": "Brainstorming",
+      "description": "Structured brainstorming to design robust solutions before coding. 在写代码之前进行结构化头脑风暴，设计稳健的解决方案。 在写代码之前进行结构化头脑风暴，设计稳健的解决方案。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/brainstorming",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "dispatching-parallel-agents",
+      "name": "Dispatching Parallel Agents",
+      "description": "Coordinate multiple subagents working in parallel without conflicts. 协调多个子代理并行工作且互不冲突。 协调多个子代理并行工作且互不冲突。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/dispatching-parallel-agents",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "executing-plans",
+      "name": "Executing Plans",
+      "description": "Follow a written plan step by step, adapting when reality diverges. 按书面计划逐步执行，现实偏离时灵活调整。 按书面计划逐步执行，现实偏离时灵活调整。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/executing-plans",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "finishing-a-development-branch",
+      "name": "Finishing a Development Branch",
+      "description": "Safely finish a feature branch: tests, quality gates and merge. 安全地收尾功能分支：测试、质量门禁与合并。 安全地收尾功能分支：测试、质量门禁与合并。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/finishing-a-development-branch",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "receiving-code-review",
+      "name": "Receiving Code Review",
+      "description": "Respond to code review feedback with discipline and thoroughness. 严谨地回应代码评审反馈并彻底改进。 严谨地回应代码评审反馈并彻底改进。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/receiving-code-review",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "subagent-driven-development",
+      "name": "Subagent-Driven Development",
+      "description": "Decompose work and delegate implementation to subagents. 拆分任务并把实现委托给子代理。 拆分任务并把实现委托给子代理。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/subagent-driven-development",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "test-driven-development",
+      "name": "Test-Driven Development",
+      "description": "Write tests first, then implement, then refactor with confidence. 先写测试再实现，最后放心重构。 先写测试再实现，最后放心重构。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/test-driven-development",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "using-git-worktrees",
+      "name": "Using Git Worktrees",
+      "description": "Leverage git worktrees for parallel work without branch juggling. 用 git worktree 并行开发，无需来回切换分支。 用 git worktree 并行开发，无需来回切换分支。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/using-git-worktrees",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "using-superpowers",
+      "name": "Using Superpowers",
+      "description": "The meta-skill that coordinates all other superpowers skills. 协调其余所有 superpowers 技能的元技能。 协调其余所有 superpowers 技能的元技能。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/using-superpowers",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "verification-before-completion",
+      "name": "Verification Before Completion",
+      "description": "Never claim done before verifying the work actually works. 在真正验证工作有效之前，绝不宣称完成。 在真正验证工作有效之前，绝不宣称完成。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/verification-before-completion",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "writing-plans",
+      "name": "Writing Plans",
+      "description": "Write clear, executable plans that agents can follow reliably. 编写清晰可执行的计划，让代理可靠遵循。 编写清晰可执行的计划，让代理可靠遵循。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/writing-plans",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "writing-skills",
+      "name": "Writing Skills",
+      "description": "Author high-quality SKILL.md files that teach agents new abilities. 编写高质量的 SKILL.md，教会代理新能力。 编写高质量的 SKILL.md，教会代理新能力。",
+      "repository": "obra/superpowers",
+      "ref": "main",
+      "subdir": "skills/writing-skills",
+      "author": "obra",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "auth-implementation-patterns",
+      "name": "Auth Implementation Patterns",
+      "description": "Secure authentication patterns: sessions, tokens, OAuth and MFA. 安全的认证实现模式：会话、令牌、OAuth 与多因素认证。 安全的认证实现模式：会话、令牌、OAuth 与多因素认证。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/auth-implementation-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "bazel-build-optimization",
+      "name": "Bazel Build Optimization",
+      "description": "Optimize Bazel builds: caching, targets and dependency hygiene. 优化 Bazel 构建：缓存、目标与依赖卫生。 优化 Bazel 构建：缓存、目标与依赖卫生。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/bazel-build-optimization",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "debugging-strategies",
+      "name": "Debugging Strategies",
+      "description": "Systematic debugging: reproduce, isolate, fix and verify. 系统性调试：复现、隔离、修复与验证。 系统性调试：复现、隔离、修复与验证。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/debugging-strategies",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "e2e-testing-patterns",
+      "name": "E2E Testing Patterns",
+      "description": "End-to-end test design: selectors, fixtures and stable flows. 端到端测试设计：选择器、夹具与稳定流程。 端到端测试设计：选择器、夹具与稳定流程。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/e2e-testing-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "error-handling-patterns",
+      "name": "Error Handling Patterns",
+      "description": "Robust error handling: typed errors, retries and observability. 健壮的错误处理：类型化错误、重试与可观测性。 健壮的错误处理：类型化错误、重试与可观测性。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/error-handling-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "monorepo-management",
+      "name": "Monorepo Management",
+      "description": "Manage monorepos: structure, tooling and CI strategies. 单仓库管理：结构、工具链与 CI 策略。 单仓库管理：结构、工具链与 CI 策略。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/monorepo-management",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "nx-workspace-patterns",
+      "name": "NX Workspace Patterns",
+      "description": "Use Nx workspace: generators, caching and dependency graphs. 使用 Nx 工作区：生成器、缓存与依赖图。 使用 Nx 工作区：生成器、缓存与依赖图。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/nx-workspace-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "sql-optimization-patterns",
+      "name": "SQL Optimization Patterns",
+      "description": "Optimize SQL: indexes, query plans and schema design. SQL 优化：索引、执行计划与 schema 设计。 SQL 优化：索引、执行计划与 schema 设计。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/sql-optimization-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "turborepo-caching",
+      "name": "Turborepo Caching",
+      "description": "Speed up Turborepo pipelines with smart caching. 用智能缓存加速 Turborepo 流水线。 用智能缓存加速 Turborepo 流水线。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/developer-essentials/skills/turborepo-caching",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "async-python-patterns",
+      "name": "Async Python Patterns",
+      "description": "Modern async Python: asyncio, tasks and concurrency control. 现代异步 Python：asyncio、任务与并发控制。 现代异步 Python：asyncio、任务与并发控制。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/async-python-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-anti-patterns",
+      "name": "Python Anti-Patterns",
+      "description": "Identify and fix common Python anti-patterns. 识别并修复常见的 Python 反模式。 识别并修复常见的 Python 反模式。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-anti-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-background-jobs",
+      "name": "Python Background Jobs",
+      "description": "Design reliable background jobs: queues, workers and retries. 设计可靠的后台任务：队列、Worker 与重试。 设计可靠的后台任务：队列、Worker 与重试。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-background-jobs",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-code-style",
+      "name": "Python Code Style",
+      "description": "Consistent Python code style: formatting, naming and linting. 一致的 Python 代码风格：格式化、命名与静态检查。 一致的 Python 代码风格：格式化、命名与静态检查。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-code-style",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-configuration",
+      "name": "Python Configuration",
+      "description": "Manage Python configuration: env vars, settings and secrets. Python 配置管理：环境变量、设置与密钥。 Python 配置管理：环境变量、设置与密钥。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-configuration",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-design-patterns",
+      "name": "Python Design Patterns",
+      "description": "Apply design patterns idiomatically in Python. 在 Python 中地道地应用设计模式。 在 Python 中地道地应用设计模式。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-design-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-error-handling",
+      "name": "Python Error Handling",
+      "description": "Resilient Python error handling and exception design. 有韧性的 Python 错误处理与异常设计。 有韧性的 Python 错误处理与异常设计。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-error-handling",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-observability",
+      "name": "Python Observability",
+      "description": "Instrument Python services: logging, metrics and tracing. 为 Python 服务插桩：日志、指标与链路追踪。 为 Python 服务插桩：日志、指标与链路追踪。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-observability",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-packaging",
+      "name": "Python Packaging",
+      "description": "Package Python projects: pyproject, wheels and publishing. Python 打包：pyproject、wheel 与发布。 Python 打包：pyproject、wheel 与发布。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-packaging",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-performance-optimization",
+      "name": "Python Performance Optimization",
+      "description": "Profile and optimize Python performance hot paths. 剖析并优化 Python 性能热点。 剖析并优化 Python 性能热点。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-performance-optimization",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-project-structure",
+      "name": "Python Project Structure",
+      "description": "Organize Python projects: packages, layers and imports. Python 项目组织：包、分层与导入。 Python 项目组织：包、分层与导入。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-project-structure",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-resilience",
+      "name": "Python Resilience",
+      "description": "Build resilient Python: timeouts, circuit breakers and fallbacks. 构建有韧性的 Python：超时、熔断与降级。 构建有韧性的 Python：超时、熔断与降级。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-resilience",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-resource-management",
+      "name": "Python Resource Management",
+      "description": "Manage Python resources: context managers, pools and lifecycle. Python 资源管理：上下文管理器、连接池与生命周期。 Python 资源管理：上下文管理器、连接池与生命周期。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-resource-management",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-testing-patterns",
+      "name": "Python Testing Patterns",
+      "description": "Test Python code: unit, integration and property testing. Python 测试：单元、集成与属性测试。 Python 测试：单元、集成与属性测试。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-testing-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "python-type-safety",
+      "name": "Python Type Safety",
+      "description": "Leverage static typing: generics, protocols and mypy. 善用静态类型：泛型、Protocol 与 mypy。 善用静态类型：泛型、Protocol 与 mypy。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/python-type-safety",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "uv-package-manager",
+      "name": "UV Package Manager",
+      "description": "Use uv for fast Python dependency management and tooling. 用 uv 加速 Python 依赖管理与工具链。 用 uv 加速 Python 依赖管理与工具链。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/python-development/skills/uv-package-manager",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "architecture-patterns",
+      "name": "Architecture Patterns",
+      "description": "Backend architecture patterns: layers, boundaries and modules. 后端架构模式：分层、边界与模块化。 后端架构模式：分层、边界与模块化。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/backend-development/skills/architecture-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "cqrs-implementation",
+      "name": "CQRS Implementation",
+      "description": "Implement CQRS: commands, queries and separate models. 实现 CQRS：命令、查询与分离模型。 实现 CQRS：命令、查询与分离模型。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/backend-development/skills/cqrs-implementation",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "microservices-patterns",
+      "name": "Microservices Patterns",
+      "description": "Design microservices: boundaries, contracts and resilience. 微服务设计：边界、契约与韧性。 微服务设计：边界、契约与韧性。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/backend-development/skills/microservices-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "saga-orchestration",
+      "name": "Saga Orchestration",
+      "description": "Implement distributed transactions with saga orchestration. 用 Saga 编排实现分布式事务。 用 Saga 编排实现分布式事务。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/backend-development/skills/saga-orchestration",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "temporal-python-testing",
+      "name": "Temporal Python Testing",
+      "description": "Test Temporal workflows and activities written in Python. 测试用 Python 编写的 Temporal 工作流与活动。 测试用 Python 编写的 Temporal 工作流与活动。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/backend-development/skills/temporal-python-testing",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "workflow-orchestration-patterns",
+      "name": "Workflow Orchestration Patterns",
+      "description": "Design durable workflow orchestration with timeouts and retries. 设计带超时与重试的持久化工作流编排。 设计带超时与重试的持久化工作流编排。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/backend-development/skills/workflow-orchestration-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "nextjs-app-router-patterns",
+      "name": "Next.js App Router Patterns",
+      "description": "Build with Next.js App Router: layouts, data and rendering. Next.js App Router 开发：布局、数据与渲染。 Next.js App Router 开发：布局、数据与渲染。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/frontend-mobile-development/skills/nextjs-app-router-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "react-native-architecture",
+      "name": "React Native Architecture",
+      "description": "Architect React Native apps: navigation, state and native modules. React Native 应用架构：导航、状态与原生模块。 React Native 应用架构：导航、状态与原生模块。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/frontend-mobile-development/skills/react-native-architecture",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "react-state-management",
+      "name": "React State Management",
+      "description": "Choose and apply React state management patterns. 选择并应用 React 状态管理模式。 选择并应用 React 状态管理模式。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/frontend-mobile-development/skills/react-state-management",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "tailwind-design-system",
+      "name": "Tailwind Design System",
+      "description": "Build consistent design systems with Tailwind CSS. 用 Tailwind CSS 构建一致的设计系统。 用 Tailwind CSS 构建一致的设计系统。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/frontend-mobile-development/skills/tailwind-design-system",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "airflow-dag-patterns",
+      "name": "Airflow DAG Patterns",
+      "description": "Design reliable Airflow DAGs: dependencies and retries. 设计可靠的 Airflow DAG：依赖与重试。 设计可靠的 Airflow DAG：依赖与重试。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/data-engineering/skills/airflow-dag-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "data-quality-frameworks",
+      "name": "Data Quality Frameworks",
+      "description": "Apply data quality frameworks: profiling and validation. 应用数据质量框架：画像与校验。 应用数据质量框架：画像与校验。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/data-engineering/skills/data-quality-frameworks",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "dbt-transformation-patterns",
+      "name": "dbt Transformation Patterns",
+      "description": "Model data with dbt: staging, marts and tests. 用 dbt 建模：贴源、数据集市与测试。 用 dbt 建模：贴源、数据集市与测试。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/data-engineering/skills/dbt-transformation-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "spark-optimization",
+      "name": "Spark Optimization",
+      "description": "Optimize Spark jobs: partitioning, joins and memory. 优化 Spark 作业：分区、连接与内存。 优化 Spark 作业：分区、连接与内存。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/data-engineering/skills/spark-optimization",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "gitops-workflow",
+      "name": "GitOps Workflow",
+      "description": "Manage Kubernetes with GitOps: declarative config and sync. 用 GitOps 管理 Kubernetes：声明式配置与同步。 用 GitOps 管理 Kubernetes：声明式配置与同步。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/kubernetes-operations/skills/gitops-workflow",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "helm-chart-scaffolding",
+      "name": "Helm Chart Scaffolding",
+      "description": "Scaffold maintainable Helm charts with best practices. 按最佳实践搭建可维护的 Helm Chart。 按最佳实践搭建可维护的 Helm Chart。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/kubernetes-operations/skills/helm-chart-scaffolding",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "k8s-manifest-generator",
+      "name": "K8s Manifest Generator",
+      "description": "Generate correct Kubernetes manifests for common workloads. 为常见负载生成正确的 Kubernetes 清单。 为常见负载生成正确的 Kubernetes 清单。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/kubernetes-operations/skills/k8s-manifest-generator",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "k8s-security-policies",
+      "name": "K8s Security Policies",
+      "description": "Harden Kubernetes with network, RBAC and pod security policies. 用网络、RBAC 与 Pod 安全策略加固 Kubernetes。 用网络、RBAC 与 Pod 安全策略加固 Kubernetes。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/kubernetes-operations/skills/k8s-security-policies",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "cost-optimization",
+      "name": "Cloud Cost Optimization",
+      "description": "Identify and apply cloud cost optimization strategies. 识别并应用云成本优化策略。 识别并应用云成本优化策略。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/cloud-infrastructure/skills/cost-optimization",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "terraform-module-library",
+      "name": "Terraform Module Library",
+      "description": "Design reusable Terraform modules with clear interfaces. 设计接口清晰的复用型 Terraform 模块。 设计接口清晰的复用型 Terraform 模块。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/cloud-infrastructure/skills/terraform-module-library",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "istio-traffic-management",
+      "name": "Istio Traffic Management",
+      "description": "Route and manage traffic with Istio VirtualService and Gateway. 用 Istio VirtualService 与 Gateway 进行流量管理。 用 Istio VirtualService 与 Gateway 进行流量管理。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/cloud-infrastructure/skills/istio-traffic-management",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "multi-cloud-architecture",
+      "name": "Multi-Cloud Architecture",
+      "description": "Design portable multi-cloud architectures. 设计可移植的多云架构。 设计可移植的多云架构。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/cloud-infrastructure/skills/multi-cloud-architecture",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "deployment-pipeline-design",
+      "name": "Deployment Pipeline Design",
+      "description": "Design deployment pipelines: stages, gates and rollback. 设计部署流水线：阶段、门禁与回滚。 设计部署流水线：阶段、门禁与回滚。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/cicd-automation/skills/deployment-pipeline-design",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "github-actions-templates",
+      "name": "GitHub Actions Templates",
+      "description": "Write reliable GitHub Actions workflows and templates. 编写可靠的 GitHub Actions 工作流与模板。 编写可靠的 GitHub Actions 工作流与模板。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/cicd-automation/skills/github-actions-templates",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "secrets-management",
+      "name": "Secrets Management",
+      "description": "Handle secrets safely across CI/CD and runtime. 在 CI/CD 与运行时安全地处理密钥。 在 CI/CD 与运行时安全地处理密钥。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/cicd-automation/skills/secrets-management",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "attack-tree-construction",
+      "name": "Attack Tree Construction",
+      "description": "Build attack trees to model threat scenarios. 构建攻击树以建模威胁场景。 构建攻击树以建模威胁场景。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/security-scanning/skills/attack-tree-construction",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "sast-configuration",
+      "name": "SAST Configuration",
+      "description": "Configure SAST tools and triage findings effectively. 配置 SAST 工具并有效处置告警。 配置 SAST 工具并有效处置告警。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/security-scanning/skills/sast-configuration",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "stride-analysis-patterns",
+      "name": "STRIDE Analysis Patterns",
+      "description": "Apply STRIDE threat modeling to system designs. 对系统设计应用 STRIDE 威胁建模。 对系统设计应用 STRIDE 威胁建模。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/security-scanning/skills/stride-analysis-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "threat-mitigation-mapping",
+      "name": "Threat Mitigation Mapping",
+      "description": "Map threats to concrete mitigation controls. 把威胁映射到具体的缓解控制措施。 把威胁映射到具体的缓解控制措施。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/security-scanning/skills/threat-mitigation-mapping",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "distributed-tracing",
+      "name": "Distributed Tracing",
+      "description": "Instrument distributed tracing across services. 在服务间接入分布式链路追踪。 在服务间接入分布式链路追踪。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/observability-monitoring/skills/distributed-tracing",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "grafana-dashboards",
+      "name": "Grafana Dashboards",
+      "description": "Design effective Grafana dashboards for operations. 设计高效的 Grafana 运维看板。 设计高效的 Grafana 运维看板。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/observability-monitoring/skills/grafana-dashboards",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "prometheus-configuration",
+      "name": "Prometheus Configuration",
+      "description": "Configure Prometheus: scraping, rules and alerting. 配置 Prometheus：抓取、规则与告警。 配置 Prometheus：抓取、规则与告警。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/observability-monitoring/skills/prometheus-configuration",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "slo-implementation",
+      "name": "SLO Implementation",
+      "description": "Define and track SLOs with error budgets. 定义并跟踪 SLO 与错误预算。 定义并跟踪 SLO 与错误预算。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/observability-monitoring/skills/slo-implementation",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "embedding-strategies",
+      "name": "Embedding Strategies",
+      "description": "Choose embedding models and chunking strategies for RAG. 为 RAG 选择嵌入模型与分块策略。 为 RAG 选择嵌入模型与分块策略。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/llm-application-dev/skills/embedding-strategies",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "rag-implementation",
+      "name": "RAG Implementation",
+      "description": "Implement retrieval-augmented generation end to end. 端到端实现检索增强生成（RAG）。 端到端实现检索增强生成（RAG）。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/llm-application-dev/skills/rag-implementation",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "prompt-engineering-patterns",
+      "name": "Prompt Engineering Patterns",
+      "description": "Craft effective prompts: structure, context and constraints. 编写有效提示词：结构、上下文与约束。 编写有效提示词：结构、上下文与约束。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/llm-application-dev/skills/prompt-engineering-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "llm-evaluation",
+      "name": "LLM Evaluation",
+      "description": "Evaluate LLM outputs with metrics, evals and regression tests. 用指标、评测与回归测试评估 LLM 输出。 用指标、评测与回归测试评估 LLM 输出。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/llm-application-dev/skills/llm-evaluation",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "postgresql-design",
+      "name": "PostgreSQL Design",
+      "description": "Design PostgreSQL schemas: types, indexes and constraints. 设计 PostgreSQL 表结构：类型、索引与约束。 设计 PostgreSQL 表结构：类型、索引与约束。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/database-design/skills/postgresql",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "javascript-testing-patterns",
+      "name": "JavaScript Testing Patterns",
+      "description": "Test JavaScript/TypeScript with modern tooling. 用现代工具测试 JavaScript/TypeScript。 用现代工具测试 JavaScript/TypeScript。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/javascript-typescript/skills/javascript-testing-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "modern-javascript-patterns",
+      "name": "Modern JavaScript Patterns",
+      "description": "Write modern JavaScript: ES modules, async and tooling. 编写现代 JavaScript：ES 模块、异步与工具链。 编写现代 JavaScript：ES 模块、异步与工具链。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/javascript-typescript/skills/modern-javascript-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "nodejs-backend-patterns",
+      "name": "Node.js Backend Patterns",
+      "description": "Build Node.js backends: structure, streams and performance. 构建 Node.js 后端：结构、流与性能。 构建 Node.js 后端：结构、流与性能。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/javascript-typescript/skills/nodejs-backend-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "typescript-advanced-types",
+      "name": "TypeScript Advanced Types",
+      "description": "Master TypeScript advanced types and generics. 掌握 TypeScript 高级类型与泛型。 掌握 TypeScript 高级类型与泛型。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/javascript-typescript/skills/typescript-advanced-types",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "bash-defensive-patterns",
+      "name": "Bash Defensive Patterns",
+      "description": "Write defensive Bash: set -euo pipefail and error traps. 编写防御式 Bash：set -euo pipefail 与错误陷阱。 编写防御式 Bash：set -euo pipefail 与错误陷阱。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/shell-scripting/skills/bash-defensive-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "bats-testing-patterns",
+      "name": "BATS Testing Patterns",
+      "description": "Test shell scripts with BATS framework. 用 BATS 框架测试 Shell 脚本。 用 BATS 框架测试 Shell 脚本。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/shell-scripting/skills/bats-testing-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "go-concurrency-patterns",
+      "name": "Go Concurrency Patterns",
+      "description": "Apply Go concurrency patterns: goroutines and channels. 应用 Go 并发模式：goroutine 与 channel。 应用 Go 并发模式：goroutine 与 channel。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/systems-programming/skills/go-concurrency-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "memory-safety-patterns",
+      "name": "Memory Safety Patterns",
+      "description": "Write memory-safe systems code in C/C++/Rust. 用 C/C++/Rust 编写内存安全的系统代码。 用 C/C++/Rust 编写内存安全的系统代码。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/systems-programming/skills/memory-safety-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "rust-async-patterns",
+      "name": "Rust Async Patterns",
+      "description": "Design Rust async code: futures, streams and runtimes. 设计 Rust 异步代码：future、流与运行时。 设计 Rust 异步代码：future、流与运行时。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/systems-programming/skills/rust-async-patterns",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "incident-runbook-templates",
+      "name": "Incident Runbook Templates",
+      "description": "Create effective incident runbooks for common failures. 为常见故障编写有效的应急手册。 为常见故障编写有效的应急手册。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/incident-response/skills/incident-runbook-templates",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "postmortem-writing",
+      "name": "Postmortem Writing",
+      "description": "Write blameless postmortems that drive improvement. 编写无指责复盘，驱动持续改进。 编写无指责复盘，驱动持续改进。",
+      "repository": "wshobson/agents",
+      "ref": "main",
+      "subdir": "plugins/incident-response/skills/postmortem-writing",
+      "author": "wshobson",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "acquire-codebase-knowledge",
+      "name": "Acquire Codebase Knowledge",
+      "description": "Systematically build understanding of an unfamiliar codebase. 系统性地建立对陌生代码库的理解。 系统性地建立对陌生代码库的理解。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/acquire-codebase-knowledge",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "agent-governance",
+      "name": "Agent Governance",
+      "description": "Govern AI agents: policy, oversight and audit. AI 代理治理：策略、监督与审计。 AI 代理治理：策略、监督与审计。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/agent-governance",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "ai-prompt-engineering-safety-review",
+      "name": "AI Prompt Engineering Safety Review",
+      "description": "Review prompts for injection risks and safety issues. 审查提示词中的注入风险与安全问题。 审查提示词中的注入风险与安全问题。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/ai-prompt-engineering-safety-review",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "architecture-blueprint-generator",
+      "name": "Architecture Blueprint Generator",
+      "description": "Generate architecture blueprints before implementation. 在实现前生成架构蓝图。 在实现前生成架构蓝图。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/architecture-blueprint-generator",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "create-specification",
+      "name": "Create Specification",
+      "description": "Write precise feature specifications agents can implement. 编写 Agent 可实现的精确功能规格。 编写 Agent 可实现的精确功能规格。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/create-specification",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "create-implementation-plan",
+      "name": "Create Implementation Plan",
+      "description": "Break specifications into actionable implementation plans. 把规格拆解为可执行的实现计划。 把规格拆解为可执行的实现计划。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/create-implementation-plan",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "prd",
+      "name": "PRD Writing",
+      "description": "Write clear product requirements documents. 编写清晰的产品需求文档（PRD）。 编写清晰的产品需求文档（PRD）。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/prd",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "create-architectural-decision-record",
+      "name": "Architectural Decision Record",
+      "description": "Document architectural decisions with ADRs. 用 ADR 记录架构决策。 用 ADR 记录架构决策。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/create-architectural-decision-record",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "conventional-commit",
+      "name": "Conventional Commits",
+      "description": "Write Conventional Commits that generate changelogs. 编写可自动生成变更日志的规范提交信息。 编写可自动生成变更日志的规范提交信息。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/conventional-commit",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "git-commit",
+      "name": "Git Commit",
+      "description": "Craft clear, atomic git commit messages. 编写清晰、原子的 git 提交信息。 编写清晰、原子的 git 提交信息。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/git-commit",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "gitmoji",
+      "name": "Gitmoji",
+      "description": "Use gitmoji conventions in commit messages. 在提交信息中使用 gitmoji 约定。 在提交信息中使用 gitmoji 约定。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/gitmoji",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "conventional-branch",
+      "name": "Conventional Branches",
+      "description": "Name branches with conventional prefixes. 用规范前缀命名分支。 用规范前缀命名分支。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/conventional-branch",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "github-actions-hardening",
+      "name": "GitHub Actions Hardening",
+      "description": "Harden GitHub Actions against supply-chain attacks. 加固 GitHub Actions 以防御供应链攻击。 加固 GitHub Actions 以防御供应链攻击。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/github-actions-hardening",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "multi-stage-dockerfile",
+      "name": "Multi-Stage Dockerfile",
+      "description": "Write lean multi-stage Dockerfiles. 编写精简的多阶段 Dockerfile。 编写精简的多阶段 Dockerfile。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/multi-stage-dockerfile",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "secret-scanning",
+      "name": "Secret Scanning",
+      "description": "Detect and remediate leaked secrets in code. 检测并修复代码中泄露的密钥。 检测并修复代码中泄露的密钥。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/secret-scanning",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "sql-optimization",
+      "name": "SQL Optimization",
+      "description": "Optimize SQL queries with execution plans and indexing. 用执行计划与索引优化 SQL 查询。 用执行计划与索引优化 SQL 查询。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/sql-optimization",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "postgresql-optimization",
+      "name": "PostgreSQL Optimization",
+      "description": "Tune PostgreSQL: configuration, vacuum and query tuning. PostgreSQL 调优：配置、vacuum 与查询。 PostgreSQL 调优：配置、vacuum 与查询。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/postgresql-optimization",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "threat-model-analyst",
+      "name": "Threat Model Analyst",
+      "description": "Produce thorough threat models for software systems. 为软件系统产出完整的威胁模型。 为软件系统产出完整的威胁模型。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/threat-model-analyst",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "incident-postmortem",
+      "name": "Incident Postmortem",
+      "description": "Run blameless incident postmortems end to end. 端到端执行无指责的故障复盘。 端到端执行无指责的故障复盘。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/incident-postmortem",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "meeting-minutes",
+      "name": "Meeting Minutes",
+      "description": "Convert meeting notes into structured minutes and actions. 把会议笔记整理为结构化纪要待办。 把会议笔记整理为结构化纪要待办。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/meeting-minutes",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "performance-review-writer",
+      "name": "Performance Review Writer",
+      "description": "Draft fair, evidence-based performance reviews. 撰写公正、基于证据的绩效评估。 撰写公正、基于证据的绩效评估。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/performance-review-writer",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "email-drafter",
+      "name": "Email Drafter",
+      "description": "Draft clear professional emails for any purpose. 为任何场景起草清晰专业的邮件。 为任何场景起草清晰专业的邮件。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/email-drafter",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "technical-job-search",
+      "name": "Technical Job Search",
+      "description": "Run an effective technical job search: resume and interviews. 高效求职：简历与面试准备。 高效求职：简历与面试准备。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/technical-job-search",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "prompt-optimizer",
+      "name": "Prompt Optimizer",
+      "description": "Optimize prompts for clarity, specificity and safety. 优化提示词的清晰度、具体性与安全性。 优化提示词的清晰度、具体性与安全性。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/prompt-optimizer",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "generate-image",
+      "name": "Generate Image",
+      "description": "Generate and iterate images with AI image tools. 用 AI 图像工具生成并迭代图片。 用 AI 图像工具生成并迭代图片。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/generate-image",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "draw-io-diagram-generator",
+      "name": "Draw.io Diagram Generator",
+      "description": "Generate draw.io diagrams from structured descriptions. 从结构化描述生成 draw.io 图表。 从结构化描述生成 draw.io 图表。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/draw-io-diagram-generator",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "markdown-to-html",
+      "name": "Markdown to HTML",
+      "description": "Convert Markdown documents to clean HTML. 把 Markdown 文档转换为干净的 HTML。 把 Markdown 文档转换为干净的 HTML。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/markdown-to-html",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "create-github-issue-feature-from-specification",
+      "name": "GitHub Issue from Specification",
+      "description": "Create actionable GitHub issues from feature specs. 从功能规格创建可执行的 GitHub Issue。 从功能规格创建可执行的 GitHub Issue。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/create-github-issue-feature-from-specification",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "unit-test-vue-pinia",
+      "name": "Vue Pinia Unit Tests",
+      "description": "Unit test Vue components and Pinia stores. 对 Vue 组件与 Pinia store 编写单元测试。 对 Vue 组件与 Pinia store 编写单元测试。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/unit-test-vue-pinia",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "refactor",
+      "name": "Refactor",
+      "description": "Refactor code safely with tests and small steps. 用测试与小步推进安全地重构代码。 用测试与小步推进安全地重构代码。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/refactor",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "tiny-stepping",
+      "name": "Tiny Stepping",
+      "description": "Break work into tiny verifiable steps. 把工作拆成微小的可验证步骤。 把工作拆成微小的可验证步骤。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/tiny-stepping",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "doublecheck",
+      "name": "Double Check",
+      "description": "Verify work against requirements before delivering. 交付前对照需求复核工作。 交付前对照需求复核工作。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/doublecheck",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "diagnose",
+      "name": "Diagnose",
+      "description": "Diagnose issues methodically: gather, isolate, confirm. 有条理地诊断问题：收集、隔离、确认。 有条理地诊断问题：收集、隔离、确认。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/diagnose",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "code-tour",
+      "name": "Code Tour",
+      "description": "Document a codebase with guided walkthroughs. 用引导式讲解记录代码库。 用引导式讲解记录代码库。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/code-tour",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "quality-playbook",
+      "name": "Quality Playbook",
+      "description": "A playbook of quality gates for shipping software. 发布软件的质量门禁手册。 发布软件的质量门禁手册。",
+      "repository": "github/awesome-copilot",
+      "ref": "main",
+      "subdir": "skills/quality-playbook",
+      "author": "github",
+      "tags": [
+        "skill"
+      ],
       "license": "MIT",
       "verified": false,
       "submitted_at": "2026-08-12"
     }
   ],
-  "mcps": [],
+  "mcps": [
+    {
+      "id": "upstash-context7",
+      "name": "Context7",
+      "description": "Up-to-date code documentation for LLMs and AI coding agents. 为 LLM 与 AI 编码助手提供最新代码文档，检索主流开源库的 API 用法。 为 LLM 与 AI 编码助手提供最新代码文档，检索主流开源库的 API 用法。",
+      "repository": "upstash/context7",
+      "ref": "main",
+      "subdir": "",
+      "author": "upstash",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "chrome-devtools-mcp",
+      "name": "Chrome DevTools MCP",
+      "description": "Chrome DevTools for coding agents: inspect, debug and profile real browsers. 让 Agent 通过 Chrome DevTools 协议调试真实浏览器。 让 Agent 通过 Chrome DevTools 协议调试真实浏览器：检查元素、断点调试、性能分析。",
+      "repository": "ChromeDevTools/chrome-devtools-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "ChromeDevTools",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "codebase-memory-mcp",
+      "name": "Codebase Memory MCP",
+      "description": "High-performance code intelligence MCP server that indexes codebases into a queryable knowledge base. 高性能代码智能服务，把代码库建成可查询的知识库。 高性能代码智能服务，把整个代码库索引为可查询的知识库，支持语义检索与代码问答。",
+      "repository": "DeusData/codebase-memory-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "DeusData",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "playwright-mcp",
+      "name": "Playwright MCP",
+      "description": "Microsoft's official Playwright MCP server for browser automation and web testing. 微软官方 Playwright MCP：浏览器自动化与网页测试。 微软官方 Playwright MCP：让 Agent 驱动浏览器完成自动化操作、截图与端到端测试。",
+      "repository": "microsoft/playwright-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "microsoft",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "github-mcp-server",
+      "name": "GitHub MCP Server",
+      "description": "GitHub's official MCP server to work with repositories, issues, pull requests and actions. GitHub 官方 MCP：操作仓库、Issue、PR 与 Actions。 GitHub 官方 MCP：操作仓库、Issue、Pull Request 与 Actions 工作流。",
+      "repository": "github/github-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "github",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "serena",
+      "name": "Serena",
+      "description": "A powerful MCP toolkit for coding with semantic retrieval and editing across projects. 面向编码的 MCP 工具箱：跨项目语义检索与编辑。 面向编码的 MCP 工具箱：跨项目语义检索、代码编辑与重构辅助。",
+      "repository": "oraios/serena",
+      "ref": "main",
+      "subdir": "",
+      "author": "oraios",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "n8n-mcp",
+      "name": "n8n MCP",
+      "description": "Build n8n workflows from Claude, Cursor and Windsurf via natural language. 用自然语言在 Claude/Cursor 中构建 n8n 自动化工作流。 用自然语言在 Claude/Cursor 中构建 n8n 自动化工作流。",
+      "repository": "czlonkowski/n8n-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "czlonkowski",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "xiaohongshu-mcp",
+      "name": "小红书 MCP",
+      "description": "MCP server for xiaohongshu.com content browsing and searching. 小红书内容浏览与搜索的 MCP 服务。 小红书内容浏览与搜索的 MCP 服务，支持笔记检索与页面抓取。",
+      "repository": "xpzouying/xiaohongshu-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "xpzouying",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "fastapi-mcp",
+      "name": "FastAPI MCP",
+      "description": "Expose your FastAPI endpoints as MCP tools automatically. 自动把 FastAPI 接口暴露为 MCP 工具。 自动把 FastAPI 接口暴露为 MCP 工具，零改动接入 Agent。",
+      "repository": "tadata-org/fastapi_mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "tadata-org",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "ida-pro-mcp",
+      "name": "IDA Pro MCP",
+      "description": "AI-powered reverse engineering assistant bridging IDA Pro with LLMs. 连接 IDA Pro 与 LLM 的 AI 逆向工程助手。 连接 IDA Pro 与 LLM 的 AI 逆向工程助手，支持反汇编分析与脚本控制。",
+      "repository": "mrexodia/ida-pro-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "mrexodia",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "hexstrike-ai",
+      "name": "HexStrike AI",
+      "description": "MCP agents for offensive security: recon, fuzzing and exploit analysis. 面向攻防安全的 MCP 代理：侦察、模糊测试与漏洞分析。 面向攻防安全的 MCP 代理：侦察、模糊测试与漏洞利用分析。",
+      "repository": "0x4m4/hexstrike-ai",
+      "ref": "main",
+      "subdir": "",
+      "author": "0x4m4",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-use",
+      "name": "mcp-use",
+      "description": "The fullstack MCP framework to develop MCP apps for ChatGPT, Claude and more. 全栈 MCP 开发框架，一套代码接入多个客户端。 全栈 MCP 开发框架，一套代码接入 ChatGPT、Claude 等客户端。",
+      "repository": "mcp-use/mcp-use",
+      "ref": "main",
+      "subdir": "",
+      "author": "mcp-use",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "awslabs-mcp",
+      "name": "AWS MCP Servers",
+      "description": "Open source MCP servers for AWS services. AWS 官方开源 MCP 服务器集合。 AWS 官方开源 MCP 服务器集合：覆盖 S3、EC2、Lambda 等常用服务。",
+      "repository": "awslabs/mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "awslabs",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "browser-tools-mcp",
+      "name": "Browser Tools MCP",
+      "description": "Monitor browser console logs, network requests and page errors from your IDE. 把浏览器日志、网络请求与页面错误接入 IDE。 把浏览器控制台日志、网络请求与页面错误实时接入 IDE 供 Agent 诊断。",
+      "repository": "AgentDeskAI/browser-tools-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "AgentDeskAI",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "firecrawl-mcp",
+      "name": "Firecrawl MCP",
+      "description": "Official Firecrawl MCP server for web scraping, crawling and search. Firecrawl 官方 MCP：网页抓取、爬取与搜索。 Firecrawl 官方 MCP：网页抓取、站点爬取与内容搜索，输出干净的 Markdown。",
+      "repository": "firecrawl/firecrawl-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "firecrawl",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "browsermcp",
+      "name": "Browser MCP",
+      "description": "Browser MCP server that allows AI apps to interact with browser automation. 让 AI 应用控制浏览器完成自动化交互。 让 AI 应用控制浏览器完成自动化交互：导航、点击、表单填写与截图。",
+      "repository": "BrowserMCP/mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "BrowserMCP",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "xcodebuild-mcp",
+      "name": "XcodeBuild MCP",
+      "description": "MCP server and CLI providing tools for building Xcode projects. 为 Xcode 工程构建提供工具的 MCP 服务器与 CLI。 为 Xcode 工程构建提供工具的 MCP 服务器与 CLI，支持模拟器操作与构建日志分析。",
+      "repository": "getsentry/XcodeBuildMCP",
+      "ref": "main",
+      "subdir": "",
+      "author": "getsentry",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-atlassian",
+      "name": "MCP Atlassian",
+      "description": "MCP server for Atlassian tools: Confluence and Jira. Atlassian 工具（Confluence/Jira）的 MCP 服务器。 Atlassian 工具（Confluence/Jira）的 MCP 服务器：文档检索与工单管理。",
+      "repository": "sooperset/mcp-atlassian",
+      "ref": "main",
+      "subdir": "",
+      "author": "sooperset",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-playwright",
+      "name": "Playwright MCP (executeautomation)",
+      "description": "Playwright MCP server to automate browsers with AI. 用 AI 驱动 Playwright 自动化浏览器操作。 用 AI 驱动 Playwright 自动化浏览器操作：点击、填写、断言与截图。",
+      "repository": "executeautomation/mcp-playwright",
+      "ref": "main",
+      "subdir": "",
+      "author": "executeautomation",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "financetoolkit",
+      "name": "Finance Toolkit",
+      "description": "Transparent and efficient financial analysis with 150+ ratios and models. 透明高效的财务分析工具，内置 150+ 指标与模型。 透明高效的财务分析工具，内置 150+ 指标与模型，支持财报数据拉取。",
+      "repository": "JerBouma/FinanceToolkit",
+      "ref": "main",
+      "subdir": "",
+      "author": "JerBouma",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "exa-mcp",
+      "name": "Exa MCP",
+      "description": "Exa MCP for web search and web crawling. Exa 语义搜索与网页爬取的 MCP。 Exa 语义搜索与网页爬取的 MCP：基于内容的深度搜索。",
+      "repository": "exa-labs/exa-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "exa-labs",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "notion-mcp",
+      "name": "Notion MCP",
+      "description": "Official Notion MCP server for pages, databases and content. Notion 官方 MCP：页面与数据库管理。 Notion 官方 MCP：管理页面、数据库与内容。",
+      "repository": "makenotion/notion-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "makenotion",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcpo",
+      "name": "MCPO",
+      "description": "A simple, secure MCP-to-OpenAPI proxy server. 把 MCP 服务转成 OpenAPI 的轻量代理。 把 MCP 服务转成 OpenAPI 接口的轻量安全代理。",
+      "repository": "open-webui/mcpo",
+      "ref": "main",
+      "subdir": "",
+      "author": "open-webui",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-server-chart",
+      "name": "Chart MCP",
+      "description": "Visualization MCP with 25+ chart types powered by AntV. 基于 AntV 的图表可视化 MCP，支持 25+ 图表类型。 基于 AntV 的图表可视化 MCP：让 Agent 直接生成 25+ 种图表。",
+      "repository": "antvis/mcp-server-chart",
+      "ref": "main",
+      "subdir": "",
+      "author": "antvis",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "code-graph-rag",
+      "name": "Code Graph RAG",
+      "description": "The ultimate RAG for your monorepo: query, understand and edit code. 面向大仓的代码 RAG：查询、理解并编辑代码。 面向大型代码仓库的 RAG：构建代码图谱，支持理解与编辑。",
+      "repository": "vitali87/code-graph-rag",
+      "ref": "main",
+      "subdir": "",
+      "author": "vitali87",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "excel-mcp",
+      "name": "Excel MCP",
+      "description": "A Model Context Protocol server for Excel file manipulation. 操作 Excel 文件的 MCP 服务器。 操作 Excel 文件的 MCP 服务器：读写、格式化与公式处理。",
+      "repository": "haris-musa/excel-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "haris-musa",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "tabularis",
+      "name": "Tabularis",
+      "description": "Open-source desktop SQL workspace with MCP for PostgreSQL, MySQL, SQLite. 支持 PostgreSQL/MySQL/SQLite 的桌面 SQL 工作台，内置 MCP。 支持 PostgreSQL/MySQL/SQLite 的桌面 SQL 工作台，内置 MCP 供 Agent 查询。",
+      "repository": "tabularisdb/tabularis",
+      "ref": "main",
+      "subdir": "",
+      "author": "tabularisdb",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "tradingview-mcp",
+      "name": "TradingView MCP",
+      "description": "TradingView MCP server: real-time market data and technical analysis. TradingView MCP：实时行情与技术分析。 TradingView MCP：实时行情数据、技术指标与图表分析。",
+      "repository": "atilaahmettaner/tradingview-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "atilaahmettaner",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "flint-chart",
+      "name": "Flint Chart",
+      "description": "A visualization language that lets AI agents reliably create charts. 让 AI 代理可靠生成图表的可视化语言。 让 AI 代理可靠生成图表的可视化语言，支持多种图表类型。",
+      "repository": "microsoft/flint-chart",
+      "ref": "main",
+      "subdir": "",
+      "author": "microsoft",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "apify-mcp",
+      "name": "Apify MCP",
+      "description": "Extract data from social media, websites and APIs via Apify actors. 通过 Apify Actor 从社媒、网站与 API 提取数据。 通过 Apify Actor 从社交媒体、网站与 API 提取结构化数据。",
+      "repository": "apify/apify-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "apify",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "dbhub",
+      "name": "DBHub",
+      "description": "Token conscious database MCP server for Postgres, MySQL, SQL Server. 省 token 的数据库 MCP：支持 Postgres/MySQL/SQL Server。 省 token 的数据库 MCP：支持 Postgres/MySQL/SQL Server，查询结果紧凑。",
+      "repository": "bytebase/dbhub",
+      "ref": "main",
+      "subdir": "",
+      "author": "bytebase",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-grafana",
+      "name": "Grafana MCP",
+      "description": "MCP server for Grafana dashboards and metrics. Grafana 看板与指标的 MCP 服务器。 Grafana 看板与指标的 MCP 服务器：查询指标与排查告警。",
+      "repository": "grafana/mcp-grafana",
+      "ref": "main",
+      "subdir": "",
+      "author": "grafana",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "ghidra-mcp",
+      "name": "Ghidra MCP",
+      "description": "Ghidra MCP server with 200+ tools for AI-powered reverse engineering. Ghidra MCP：200+ 工具的 AI 逆向工程。 Ghidra MCP：200+ 工具，AI 驱动的二进制逆向工程。",
+      "repository": "bethington/ghidra-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "bethington",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "postgres-mcp",
+      "name": "Postgres MCP Pro",
+      "description": "Configurable read/write access to PostgreSQL with cost guardrails. 可配置读写权限的 PostgreSQL MCP，带成本护栏。 可配置读写权限的 PostgreSQL MCP，带成本护栏与安全审计。",
+      "repository": "crystaldba/postgres-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "crystaldba",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "linkedin-mcp",
+      "name": "LinkedIn MCP",
+      "description": "Open-source MCP server for LinkedIn profiles and search. LinkedIn 个人主页与搜索的开源 MCP。 LinkedIn 个人主页与搜索的开源 MCP。",
+      "repository": "stickerdaniel/linkedin-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "stickerdaniel",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "fli",
+      "name": "FLI - Google Flights",
+      "description": "Google Flights MCP, CLI and Python library. Google Flights 机票查询 MCP、CLI 与 Python 库。 Google Flights 机票查询 MCP、CLI 与 Python 库。",
+      "repository": "punitarani/fli",
+      "ref": "main",
+      "subdir": "",
+      "author": "punitarani",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "arxiv-mcp",
+      "name": "ArXiv MCP",
+      "description": "Search and analyze arXiv papers via MCP. 检索与分析 arXiv 论文的 MCP 服务器。 检索与分析 arXiv 论文的 MCP 服务器。",
+      "repository": "blazickjp/arxiv-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "blazickjp",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "google-workspace-mcp",
+      "name": "Google Workspace MCP",
+      "description": "Control Gmail, Calendar, Docs, Sheets, Slides and more. 控制 Gmail、日历、文档、表格与幻灯片。 控制 Gmail、日历、文档、表格与幻灯片的 Google Workspace MCP。",
+      "repository": "taylorwilsdon/google_workspace_mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "taylorwilsdon",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "radar",
+      "name": "Radar",
+      "description": "The missing open-source Kubernetes UI with a built-in MCP server. 内置 MCP 的开源 Kubernetes 管理界面。 内置 MCP 的开源 Kubernetes 管理界面：资源查看与运维操作。",
+      "repository": "skyhook-io/radar",
+      "ref": "main",
+      "subdir": "",
+      "author": "skyhook-io",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "supabase-mcp",
+      "name": "Supabase MCP",
+      "description": "Connect Supabase to your AI assistants. 让 AI 助手连接 Supabase 数据库与项目。 让 AI 助手连接 Supabase 数据库、Edge Functions 与项目配置。",
+      "repository": "supabase-community/supabase-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "supabase-community",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-proxy",
+      "name": "MCP Proxy",
+      "description": "A bridge between Streamable HTTP and stdio MCP transports. Streamable HTTP 与 stdio 传输的桥接代理。 Streamable HTTP 与 stdio 两种 MCP 传输的桥接代理。",
+      "repository": "sparfenyuk/mcp-proxy",
+      "ref": "main",
+      "subdir": "",
+      "author": "sparfenyuk",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "jadx-ai-mcp",
+      "name": "JADX AI MCP",
+      "description": "Plugin for JADX to integrate MCP server for APK analysis. JADX 的 MCP 插件，用于 APK 反编译分析。 JADX 的 MCP 插件，让 Agent 直接分析反编译后的 APK 代码。",
+      "repository": "zinja-coder/jadx-ai-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "zinja-coder",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "brightdata-mcp",
+      "name": "Bright Data MCP",
+      "description": "All-in-one MCP server for web scraping with proxy and dataset support. 一站式网页抓取 MCP：代理、爬取与数据集。 一站式网页抓取 MCP：代理、爬取与数据集服务。",
+      "repository": "brightdata/brightdata-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "brightdata",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "js-reverse-mcp",
+      "name": "JS Reverse MCP",
+      "description": "AI Agent-first JS reverse engineering with headed Chrome debugging. 面向 Agent 的 JS 逆向 MCP：有头 Chrome 调试与断点。 面向 Agent 的 JS 逆向 MCP：有头 Chrome 调试、断点、网络与 WebSocket 分析。",
+      "repository": "zhizhuodemao/js-reverse-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "zhizhuodemao",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "paper-search-mcp",
+      "name": "Paper Search MCP",
+      "description": "Search and download academic papers from multiple sources. 多来源学术论文检索与下载。 多来源学术论文检索与下载的 MCP、CLI 与技能。",
+      "repository": "openags/paper-search-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "openags",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "davinci-resolve-mcp",
+      "name": "DaVinci Resolve MCP",
+      "description": "MCP server integration for DaVinci Resolve Studio video editing. DaVinci Resolve Studio 视频剪辑的 MCP 集成。 DaVinci Resolve Studio 视频剪辑的 MCP 集成：时间线与渲染控制。",
+      "repository": "samuelgursky/davinci-resolve-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "samuelgursky",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "pg-aiguide",
+      "name": "Postgres AI Guide",
+      "description": "MCP server and plugin for Postgres skills and documentation. Postgres 技能与文档的 MCP 服务器。 Postgres 技能与文档的 MCP 服务器：查询优化建议。",
+      "repository": "timescale/pg-aiguide",
+      "ref": "main",
+      "subdir": "",
+      "author": "timescale",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "slack-mcp-server",
+      "name": "Slack MCP Server",
+      "description": "A powerful Slack MCP server with no permission requirements. 免权限配置的 Slack MCP 服务器。 免权限配置的 Slack MCP 服务器：消息收发与频道管理。",
+      "repository": "korotovsky/slack-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "korotovsky",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "stripe-agent-toolkit",
+      "name": "Stripe Agent Toolkit",
+      "description": "One-stop shop for building AI-powered products with Stripe. 用 Stripe 构建 AI 产品的官方工具包。 Stripe 官方工具包：让 Agent 操作支付、账单与客户。",
+      "repository": "stripe/agent-toolkit",
+      "ref": "main",
+      "subdir": "",
+      "author": "stripe",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "anysearch-mcp",
+      "name": "AnySearch MCP",
+      "description": "Unified real-time search MCP: web, news, images, videos and more. 统一实时搜索 MCP：网页、新闻、图片、视频等。 统一实时搜索 MCP：网页、新闻、图片、视频等多源检索。",
+      "repository": "anysearch-ai/anysearch-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "anysearch-ai",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-language-server",
+      "name": "MCP Language Server",
+      "description": "Expose semantic language tooling (LSP) to MCP clients. 把 LSP 语义工具能力暴露给 MCP 客户端。 把 LSP 语义工具能力暴露给 MCP 客户端：跳转、补全与诊断。",
+      "repository": "isaacphi/mcp-language-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "isaacphi",
+      "tags": [
+        "mcp"
+      ],
+      "license": "BSD-3-Clause",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "minimax-mcp",
+      "name": "MiniMax MCP",
+      "description": "Official MiniMax MCP server for LLM, TTS and image generation. MiniMax 官方 MCP：文本、语音与图像生成。 MiniMax 官方 MCP：文本、语音与图像生成能力接入。",
+      "repository": "MiniMax-AI/MiniMax-MCP",
+      "ref": "main",
+      "subdir": "",
+      "author": "MiniMax-AI",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-server-kubernetes",
+      "name": "Kubernetes MCP",
+      "description": "MCP server for Kubernetes management commands. Kubernetes 管理命令的 MCP 服务器。 Kubernetes 管理命令的 MCP 服务器：Pod/Deployment 等资源操作。",
+      "repository": "flux159/mcp-server-kubernetes",
+      "ref": "main",
+      "subdir": "",
+      "author": "flux159",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-server-qdrant",
+      "name": "Qdrant MCP",
+      "description": "Official Qdrant MCP server for vector search. Qdrant 官方向量检索 MCP 服务器。 Qdrant 官方向量检索 MCP 服务器。",
+      "repository": "qdrant/mcp-server-qdrant",
+      "ref": "main",
+      "subdir": "",
+      "author": "qdrant",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "brave-search-mcp",
+      "name": "Brave Search MCP",
+      "description": "Brave Search API MCP server for web search. Brave 搜索 API 的 MCP 服务器。 Brave 搜索 API 的 MCP 服务器：网页搜索与结果提取。",
+      "repository": "brave/brave-search-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "brave",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mysql-mcp",
+      "name": "MySQL MCP",
+      "description": "Secure MCP server for MySQL database interactions. 安全的 MySQL 数据库交互 MCP。 安全的 MySQL 数据库交互 MCP：查询与运维。",
+      "repository": "designcomputer/mysql_mcp_server",
+      "ref": "main",
+      "subdir": "",
+      "author": "designcomputer",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-neo4j",
+      "name": "Neo4j MCP",
+      "description": "Neo4j Labs MCP servers for graph database interaction. Neo4j Labs 图数据库 MCP。 Neo4j Labs 图数据库 MCP：Cypher 查询与图谱操作。",
+      "repository": "neo4j-contrib/mcp-neo4j",
+      "ref": "main",
+      "subdir": "",
+      "author": "neo4j-contrib",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-clickhouse",
+      "name": "ClickHouse MCP",
+      "description": "Connect ClickHouse to your AI assistants. 让 AI 助手连接 ClickHouse。 让 AI 助手连接 ClickHouse 数据库执行分析查询。",
+      "repository": "clickhouse/mcp-clickhouse",
+      "ref": "main",
+      "subdir": "",
+      "author": "clickhouse",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "elasticsearch-mcp",
+      "name": "Elasticsearch MCP",
+      "description": "MCP server for Elasticsearch search and analytics. Elasticsearch 搜索与分析 MCP。 Elasticsearch 搜索与分析 MCP。",
+      "repository": "elastic/mcp-server-elasticsearch",
+      "ref": "main",
+      "subdir": "",
+      "author": "elastic",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-redis",
+      "name": "Redis MCP",
+      "description": "Official Redis MCP server: natural language interface to Redis. Redis 官方 MCP：自然语言操作 Redis。 Redis 官方 MCP：自然语言操作 Redis 键值与数据结构。",
+      "repository": "redis/mcp-redis",
+      "ref": "main",
+      "subdir": "",
+      "author": "redis",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-server-milvus",
+      "name": "Milvus MCP",
+      "description": "MCP servers for Milvus vector database. Milvus 向量数据库 MCP。 Milvus 向量数据库 MCP：集合管理与向量检索。",
+      "repository": "zilliztech/mcp-server-milvus",
+      "ref": "main",
+      "subdir": "",
+      "author": "zilliztech",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "blender-mcp",
+      "name": "Blender MCP",
+      "description": "Community plugin to control Blender 3D with any LLM. 用任意 LLM 控制 Blender 3D 的社区插件。 用任意 LLM 控制 Blender 3D：建模、材质与渲染自动化。",
+      "repository": "ahujasid/blender-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "ahujasid",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-obsidian",
+      "name": "Obsidian MCP",
+      "description": "MCP server that interacts with Obsidian via the Obsidian Local REST API. 通过本地 REST API 操作 Obsidian 笔记。 通过本地 REST API 操作 Obsidian 笔记：读写与搜索知识库。",
+      "repository": "MarkusPfundstein/mcp-obsidian",
+      "ref": "main",
+      "subdir": "",
+      "author": "MarkusPfundstein",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mongodb-mcp-server",
+      "name": "MongoDB MCP Server",
+      "description": "MCP server to connect to MongoDB databases. 连接 MongoDB 数据库的官方 MCP。 连接 MongoDB 数据库的官方 MCP：集合与文档操作。",
+      "repository": "mongodb-js/mongodb-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "mongodb-js",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "tavily-mcp",
+      "name": "Tavily MCP",
+      "description": "Production ready MCP server with real-time search and extraction. 生产级 MCP：实时搜索与网页提取。 生产级 MCP：实时搜索与网页内容提取。",
+      "repository": "tavily-ai/tavily-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "tavily-ai",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "kubernetes-mcp-server",
+      "name": "Kubernetes MCP Server",
+      "description": "MCP server for Kubernetes and container orchestration. Kubernetes 与容器编排的 MCP 服务器。 Kubernetes 与容器编排的 MCP 服务器。",
+      "repository": "containers/kubernetes-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "containers",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "git-mcp",
+      "name": "GitMCP",
+      "description": "Put an end to code hallucinations: serve your repo to agents. 把仓库内容结构化地提供给 Agent，消除代码幻觉。 把仓库内容结构化地提供给 Agent，消除代码幻觉。",
+      "repository": "idosal/git-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "idosal",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-toolbox",
+      "name": "MCP Toolbox for Databases",
+      "description": "Open source MCP server for Google Cloud databases. 谷歌云数据库的 MCP 工具箱。 谷歌云数据库（BigQuery/Cloud SQL 等）的 MCP 工具箱。",
+      "repository": "googleapis/mcp-toolbox",
+      "ref": "main",
+      "subdir": "",
+      "author": "googleapis",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "figma-context-mcp",
+      "name": "Figma Context MCP",
+      "description": "MCP server providing Figma layout information to AI coding agents. 把 Figma 设计稿布局信息提供给 AI 编码代理。 把 Figma 设计稿布局信息提供给 AI 编码代理，还原度更高的 UI 开发。",
+      "repository": "GLips/Figma-Context-MCP",
+      "ref": "main",
+      "subdir": "",
+      "author": "GLips",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "telegram-mcp",
+      "name": "Telegram MCP",
+      "description": "Telegram MCP server powered by Telethon. 基于 Telethon 的 Telegram MCP 服务器。 基于 Telethon 的 Telegram MCP 服务器：收发消息与管理会话。",
+      "repository": "chigwell/telegram-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "chigwell",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "youtube-transcript-mcp",
+      "name": "YouTube Transcript MCP",
+      "description": "Download and search YouTube subtitles via MCP. 获取并检索 YouTube 字幕的 MCP。 获取并检索 YouTube 字幕的 MCP。",
+      "repository": "kimtaeyoon83/mcp-server-youtube-transcript",
+      "ref": "main",
+      "subdir": "",
+      "author": "kimtaeyoon83",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "spotify-mcp",
+      "name": "Spotify MCP",
+      "description": "Connect your LLM with Spotify playback and playlists. 让 LLM 控制 Spotify 播放与歌单。 让 LLM 控制 Spotify 播放、歌单与搜索。",
+      "repository": "varunneal/spotify-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "varunneal",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-selenium",
+      "name": "Selenium MCP",
+      "description": "An MCP implementation for Selenium WebDriver. 基于 Selenium WebDriver 的浏览器自动化 MCP。 基于 Selenium WebDriver 的浏览器自动化 MCP。",
+      "repository": "angiejones/mcp-selenium",
+      "ref": "main",
+      "subdir": "",
+      "author": "angiejones",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "linear-mcp-server",
+      "name": "Linear MCP Server",
+      "description": "Integrate Linear project management with AI assistants. 让 AI 助手接入 Linear 项目管理。 让 AI 助手接入 Linear 项目管理：issue 创建与查询。",
+      "repository": "jerhadf/linear-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "jerhadf",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "snowflake-mcp",
+      "name": "Snowflake MCP",
+      "description": "MCP server for Snowflake including Cortex AI and object management. Snowflake 官方 MCP：含 Cortex AI 与对象管理。 Snowflake 官方 MCP：数据仓库查询、Cortex AI 与对象管理。",
+      "repository": "Snowflake-Labs/mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "Snowflake-Labs",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "datadog-mcp-server",
+      "name": "Datadog MCP Server",
+      "description": "Official Datadog MCP server for observability workflows. Datadog 官方观测平台 MCP。 Datadog 官方观测平台 MCP：指标查询与监控排查。",
+      "repository": "datadog-labs/mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "datadog-labs",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "gitlab-mcp-server",
+      "name": "GitLab MCP Server",
+      "description": "Production-grade GitLab MCP server with 86 tools. 生产级 GitLab MCP 服务器，内置 86 个工具。 生产级 GitLab MCP 服务器，内置 86 个工具：仓库、MR 与 CI。",
+      "repository": "yoda-digital/mcp-gitlab-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "yoda-digital",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "graphiti-mcp-server",
+      "name": "Graphiti MCP Server",
+      "description": "Graphiti MCP for temporal knowledge graph memory. 带时间感知的知识图谱记忆 MCP。 带时间感知的知识图谱记忆 MCP：动态实体与关系管理。",
+      "repository": "gifflet/graphiti-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "gifflet",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-flowise",
+      "name": "Flowise MCP",
+      "description": "MCP server for building and managing Flowise chatflows. 构建与管理 Flowise 对话流的 MCP。 构建与管理 Flowise 对话流的 MCP。",
+      "repository": "matthewhand/mcp-flowise",
+      "ref": "main",
+      "subdir": "",
+      "author": "matthewhand",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "universal-db-mcp",
+      "name": "通用数据库 MCP",
+      "description": "Universal database MCP connector supporting MySQL, PostgreSQL, Oracle and more. 通用数据库 MCP 连接器，支持 17 种数据库。 通用数据库 MCP 连接器，支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种。",
+      "repository": "Anarkh-Lee/universal-db-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "Anarkh-Lee",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "aliyun-dms-mcp",
+      "name": "阿里云 DMS MCP",
+      "description": "Universal multi-cloud data MCP server supporting over 10 databases. 阿里云官方多云数据库 MCP，支持 10+ 种数据库。 阿里云官方多云数据库 MCP：支持 10+ 种数据库的查询与操作。",
+      "repository": "aliyun/alibabacloud-dms-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "aliyun",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "airflow-mcp",
+      "name": "Airflow MCP API",
+      "description": "Control Apache Airflow with natural language via MCP. 用自然语言控制 Apache Airflow。 用自然语言控制 Apache Airflow：DAG 管理与任务监控。",
+      "repository": "call518/MCP-Airflow-API",
+      "ref": "main",
+      "subdir": "",
+      "author": "call518",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "figma-flutter-mcp",
+      "name": "Figma Flutter MCP",
+      "description": "Provide Figma design data to Flutter coding agents. 把 Figma 设计数据提供给 Flutter 编码代理。 把 Figma 设计数据提供给 Flutter 编码代理。",
+      "repository": "mhmzdev/figma-flutter-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "mhmzdev",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-hn",
+      "name": "HackerNews MCP",
+      "description": "MCP server for Hackernews stories and comments. Hacker News 资讯与评论的 MCP。 Hacker News 资讯与评论的 MCP。",
+      "repository": "erithwik/mcp-hn",
+      "ref": "main",
+      "subdir": "",
+      "author": "erithwik",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "kubectl-mcp-server",
+      "name": "Kubectl MCP Server",
+      "description": "A MCP server for Kubernetes command line operations. Kubernetes 命令行操作的 MCP。 Kubernetes 命令行操作的 MCP，已收录 CNCF Landscape。",
+      "repository": "rohitg00/kubectl-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "rohitg00",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "google-workspace-mcp-aaronsb",
+      "name": "Google Workspace MCP (aaronsb)",
+      "description": "MCP server providing automated Google Workspace access. 自动化访问 Google Workspace 的 MCP。 自动化访问 Google Workspace 的 MCP。",
+      "repository": "aaronsb/google-workspace-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "aaronsb",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mssql-mcp",
+      "name": "MSSQL MCP",
+      "description": "MSSQL MCP server for SQL Server interactions. SQL Server 交互的 MCP 服务器。 SQL Server 交互的 MCP 服务器。",
+      "repository": "daobataotie/mssql-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "daobataotie",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mssql-mcp-csharp",
+      "name": "MSSQL MCP (C#)",
+      "description": "MSSQL Server MCP implementation written in C#. 用 C# 实现的 MSSQL Server MCP。 用 C# 实现的 MSSQL Server MCP。",
+      "repository": "Aaronontheweb/mssql-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "Aaronontheweb",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-gateway",
+      "name": "MCP Gateway",
+      "description": "Microsoft MCP Gateway: reverse proxy and management layer for MCP. 微软 MCP 网关：MCP 反向代理与管理层。 微软 MCP 网关：MCP 服务的反向代理与统一管理。",
+      "repository": "microsoft/mcp-gateway",
+      "ref": "main",
+      "subdir": "",
+      "author": "microsoft",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "apisql-mcp",
+      "name": "APISQL MCP",
+      "description": "Connect all your databases with one MCP server. 一个 MCP 连接所有数据库的瑞士军刀。 一个 MCP 连接所有数据库：多数据源统一查询。",
+      "repository": "apisql-dev/apisql-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "apisql-dev",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-telegram",
+      "name": "Telegram MCP (dryeab)",
+      "description": "MCP server for Telegram message sending and receiving. Telegram 消息收发 MCP。 Telegram 消息收发 MCP。",
+      "repository": "dryeab/mcp-telegram",
+      "ref": "main",
+      "subdir": "",
+      "author": "dryeab",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-sqlserver",
+      "name": "MCP SQLServer",
+      "description": "MCP server for Microsoft SQL Server. Microsoft SQL Server 的 MCP 服务器。 Microsoft SQL Server 的 MCP 服务器。",
+      "repository": "bilims/mcp-sqlserver",
+      "ref": "main",
+      "subdir": "",
+      "author": "bilims",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "airflow-mcp-server",
+      "name": "Airflow MCP Server",
+      "description": "MCP server for Apache Airflow. Apache Airflow 的 MCP 服务器。 Apache Airflow 的 MCP 服务器。",
+      "repository": "yangkyeongmo/mcp-server-apache-airflow",
+      "ref": "main",
+      "subdir": "",
+      "author": "yangkyeongmo",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "shopify-mcp",
+      "name": "Shopify MCP",
+      "description": "MCP server for Shopify API. Shopify API 的 MCP 服务器。 Shopify API 的 MCP 服务器：商品与订单管理。",
+      "repository": "GeLi2001/shopify-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "GeLi2001",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "godot-mcp",
+      "name": "Godot MCP",
+      "description": "MCP server for interfacing with the Godot game engine. 与 Godot 游戏引擎交互的 MCP。 与 Godot 游戏引擎交互的 MCP：场景与脚本操作。",
+      "repository": "Coding-Solo/godot-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "Coding-Solo",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "x-reader",
+      "name": "X-Reader",
+      "description": "Universal content reader MCP server for 10+ platforms. 支持 10+ 平台的通用内容读取 MCP。 支持 10+ 平台的通用内容读取 MCP。",
+      "repository": "runesleo/x-reader",
+      "ref": "main",
+      "subdir": "",
+      "author": "runesleo",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcpvault",
+      "name": "MCPVault",
+      "description": "A lightweight MCP server for secrets and credentials vault. 轻量密钥保险库 MCP。 轻量密钥保险库 MCP：安全存取凭据。",
+      "repository": "bitbonsai/mcpvault",
+      "ref": "main",
+      "subdir": "",
+      "author": "bitbonsai",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "obsidian-local-rest",
+      "name": "Obsidian Local REST API MCP",
+      "description": "Secure REST API and MCP server for local Obsidian vaults. 本地 Obsidian 库的安全 REST API 与 MCP。 本地 Obsidian 库的安全 REST API 与 MCP。",
+      "repository": "coddingtonbear/obsidian-local-rest-api",
+      "ref": "main",
+      "subdir": "",
+      "author": "coddingtonbear",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "google-docs-mcp",
+      "name": "Google Docs MCP",
+      "description": "The ultimate Google Docs, Sheets, Drive and Gmail MCP. 谷歌文档、表格、云盘与邮件的综合 MCP。 谷歌文档、表格、云盘与邮件的综合 MCP。",
+      "repository": "a-bonus/google-docs-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "a-bonus",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-server-youtube",
+      "name": "YouTube MCP Server",
+      "description": "MCP server for YouTube API: video management and analytics. YouTube API 的 MCP：视频管理与数据分析。 YouTube API 的 MCP：视频管理与数据分析。",
+      "repository": "ZubeidHendricks/youtube-mcp-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "ZubeidHendricks",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "snowflake-mcp-gpl",
+      "name": "Snowflake MCP Server",
+      "description": "MCP server for Snowflake data warehouse. Snowflake 数据仓库的 MCP 服务器。 Snowflake 数据仓库的 MCP 服务器。",
+      "repository": "isaacwasserman/mcp-snowflake-server",
+      "ref": "main",
+      "subdir": "",
+      "author": "isaacwasserman",
+      "tags": [
+        "mcp"
+      ],
+      "license": "GPL-3.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "copilot-mcp",
+      "name": "Copilot MCP",
+      "description": "A VSCode extension to find and install Agent Skills. 在 VSCode 中发现并安装 Agent 技能的扩展。 在 VSCode 中发现并安装 Agent 技能的扩展。",
+      "repository": "VikashLoomba/copilot-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "VikashLoomba",
+      "tags": [
+        "mcp"
+      ],
+      "license": "GPL-3.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "one-search-mcp",
+      "name": "OneSearch MCP",
+      "description": "Web search, scraping and extraction in one MCP server. 搜索、爬取与提取合一 MCP。 搜索、爬取与提取合一 MCP。",
+      "repository": "yokingma/one-search-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "yokingma",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "harbor",
+      "name": "Harbor",
+      "description": "Stop configuring your AI stack - one command to use it. 一键配置整个 AI 技术栈。 一键配置整个 AI 技术栈，统一网关接入。",
+      "repository": "av/harbor",
+      "ref": "main",
+      "subdir": "",
+      "author": "av",
+      "tags": [
+        "mcp"
+      ],
+      "license": "Apache-2.0",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "gitlab-mr-mcp",
+      "name": "GitLab MR MCP",
+      "description": "MCP server for GitLab merge request reviews. GitLab 合并请求评审的 MCP。 GitLab 合并请求评审的 MCP。",
+      "repository": "amirsina-mandegari/gitlab-mr-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "amirsina-mandegari",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "figma-mcp-bridge",
+      "name": "Figma MCP Bridge",
+      "description": "Figma plugin and MCP server to bypass API limits. 绕过 Figma API 限制的插件与 MCP。 绕过 Figma API 限制的插件与 MCP。",
+      "repository": "gethopp/figma-mcp-bridge",
+      "ref": "main",
+      "subdir": "",
+      "author": "gethopp",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "tradingview-chart-mcp",
+      "name": "TradingView Chart MCP",
+      "description": "Captures TradingView chart images via Selenium. 通过 Selenium 抓取 TradingView 图表。 通过 Selenium 抓取 TradingView 图表。",
+      "repository": "ertugrul59/tradingview-chart-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "ertugrul59",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "mcp-hn-devrel",
+      "name": "HackerNews MCP (Rust)",
+      "description": "A Rust MCP server exposing Hacker News to AI assistants. 用 Rust 实现，向 AI 助手暴露 Hacker News。 用 Rust 实现，向 AI 助手暴露 Hacker News。",
+      "repository": "devrelopers/hackernews-mcp",
+      "ref": "main",
+      "subdir": "",
+      "author": "devrelopers",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    },
+    {
+      "id": "graphiti-memory",
+      "name": "Graphiti",
+      "description": "Temporal knowledge graph memory for AI agents. AI 代理的时间感知知识图谱记忆。 AI 代理的时间感知知识图谱记忆：增量构建动态图谱。",
+      "repository": "getzep/graphiti",
+      "ref": "main",
+      "subdir": "",
+      "author": "getzep",
+      "tags": [
+        "mcp"
+      ],
+      "license": "MIT",
+      "verified": false,
+      "submitted_at": "2026-08-12"
+    }
+  ],
   "workflows": []
 }
