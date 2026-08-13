@@ -35,6 +35,10 @@ REQUIRED_FIELDS = ("id", "name", "description", "repository", "ref", "license")
 
 problems = []
 warnings = []
+# repo / SKILL.md 网络检查的进程内缓存：多个条目共享同一仓库时只查一次
+# （大注册表有几百个条目，去重后 API 调用量可降一个数量级）。
+_repo_cache: dict = {}
+_skill_cache: dict = {}
 
 
 def fail(msg):
@@ -79,7 +83,9 @@ def normalize_repo(raw):
         if s.startswith(prefix):
             s = s[len(prefix):]
             break
-    return s.rstrip(".git")
+    if s.endswith(".git"):
+        s = s[:-4]
+    return s
 
 
 def check_entry(entry, kind, index, local):
@@ -127,7 +133,12 @@ def check_entry(entry, kind, index, local):
     if local:
         return
 
-    status, data = api_get(f"/repos/{repo}")
+    # 仓库检查（带缓存：同一仓库多条目只调一次 API）
+    repo_key = f"repo:{repo}"
+    if repo_key not in _repo_cache:
+        status, data = api_get(f"/repos/{repo}")
+        _repo_cache[repo_key] = (status, data)
+    status, data = _repo_cache[repo_key]
     if status == 404:
         fail(f"{kind}[{index}]: repository '{repo}' does not exist (HTTP 404)")
         return
@@ -142,7 +153,11 @@ def check_entry(entry, kind, index, local):
 
     if kind == "skills":
         sk_path = f"{subdir}/SKILL.md" if subdir else "SKILL.md"
-        status, _ = api_get(f"/repos/{repo}/contents/{sk_path}")
+        skill_key = f"{repo}::{sk_path}"
+        if skill_key not in _skill_cache:
+            status, _ = api_get(f"/repos/{repo}/contents/{sk_path}")
+            _skill_cache[skill_key] = status
+        status = _skill_cache[skill_key]
         if status == 404:
             fail(f"{kind}[{index}]: '{sk_path}' not found in repository '{repo}'")
         elif status != 200:

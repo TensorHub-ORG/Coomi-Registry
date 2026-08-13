@@ -30,7 +30,7 @@
 {
   "id": "my-skill",                // 唯一 ID，^[a-z0-9][a-z0-9-]*$，合入时由维护者确定
   "name": "My Skill",              // 展示名称
-  "description": "一段话说明功能",
+  "description": "English description. 中文描述。",  // 中英双语，空格分隔
   "repository": "owner/repo",      // 仓库（owner/repo 或完整 URL）
   "ref": "main",                   // 分支名
   "subdir": "",                    // 技能所在子目录，留空表示仓库根目录
@@ -41,6 +41,8 @@
   "submitted_at": "2026-08-12"     // 提交日期
 }
 ```
+
+`description` 字段要求**中英双语**（英文在前、中文在后，用空格或句号分隔），App 市场页直接展示该字段。
 
 `mcps` 与 `workflows` 条目使用同样的基础字段（Workflow 暂为收录展示，安装支持将在后续版本提供）。
 

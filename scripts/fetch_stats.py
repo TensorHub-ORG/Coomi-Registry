@@ -43,7 +43,9 @@ def normalize_repo(raw):
         if s.startswith(prefix):
             s = s[len(prefix):]
             break
-    return s.rstrip(".git")
+    if s.endswith(".git"):
+        s = s[:-4]
+    return s
 
 
 def api_get(path):
