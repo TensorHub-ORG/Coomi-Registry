@@ -1,1228 +1,1228 @@
 {
-  "generated_at": "2026-08-26T03:28:11Z",
+  "generated_at": "2026-08-27T12:53:32Z",
   "skills": {
     "systematic-debugging": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "requesting-code-review": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "brainstorming": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "dispatching-parallel-agents": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "executing-plans": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "finishing-a-development-branch": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "receiving-code-review": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "subagent-driven-development": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "test-driven-development": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "using-git-worktrees": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "using-superpowers": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "verification-before-completion": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "writing-plans": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "writing-skills": {
-      "stars": 277625,
-      "forks": 24830,
+      "stars": 278418,
+      "forks": 24928,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-19T17:33:23Z"
     },
     "auth-implementation-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "bazel-build-optimization": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "debugging-strategies": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "e2e-testing-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "error-handling-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "monorepo-management": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "nx-workspace-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "sql-optimization-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "turborepo-caching": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "async-python-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-anti-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-background-jobs": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-code-style": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-configuration": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-design-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-error-handling": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-observability": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-packaging": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-performance-optimization": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-project-structure": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-resilience": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-resource-management": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-testing-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "python-type-safety": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "uv-package-manager": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "architecture-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "cqrs-implementation": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "microservices-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "saga-orchestration": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "temporal-python-testing": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "workflow-orchestration-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "nextjs-app-router-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "react-native-architecture": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "react-state-management": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "tailwind-design-system": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "airflow-dag-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "data-quality-frameworks": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "dbt-transformation-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "spark-optimization": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "gitops-workflow": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "helm-chart-scaffolding": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "k8s-manifest-generator": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "k8s-security-policies": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "cost-optimization": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "terraform-module-library": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "istio-traffic-management": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "multi-cloud-architecture": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "deployment-pipeline-design": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "github-actions-templates": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "secrets-management": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "attack-tree-construction": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "sast-configuration": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "stride-analysis-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "threat-mitigation-mapping": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "distributed-tracing": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "grafana-dashboards": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "prometheus-configuration": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "slo-implementation": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "embedding-strategies": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "rag-implementation": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "prompt-engineering-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "llm-evaluation": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "postgresql-design": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "javascript-testing-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "modern-javascript-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "nodejs-backend-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "typescript-advanced-types": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "bash-defensive-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "bats-testing-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "go-concurrency-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "memory-safety-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "rust-async-patterns": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "incident-runbook-templates": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "postmortem-writing": {
-      "stars": 39127,
-      "forks": 4176,
+      "stars": 39184,
+      "forks": 4184,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T01:08:10Z"
+      "pushed_at": "2026-08-26T12:14:16Z"
     },
     "acquire-codebase-knowledge": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "agent-governance": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "ai-prompt-engineering-safety-review": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "architecture-blueprint-generator": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "create-specification": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "create-implementation-plan": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "prd": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "create-architectural-decision-record": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "conventional-commit": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "git-commit": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "gitmoji": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "conventional-branch": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "github-actions-hardening": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "multi-stage-dockerfile": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "secret-scanning": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "sql-optimization": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "postgresql-optimization": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "threat-model-analyst": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "incident-postmortem": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "meeting-minutes": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "performance-review-writer": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "email-drafter": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "technical-job-search": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "prompt-optimizer": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "generate-image": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "draw-io-diagram-generator": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "markdown-to-html": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "create-github-issue-feature-from-specification": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "unit-test-vue-pinia": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "refactor": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "tiny-stepping": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "doublecheck": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "diagnose": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "code-tour": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     },
     "quality-playbook": {
-      "stars": 38253,
-      "forks": 4842,
+      "stars": 38298,
+      "forks": 4845,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:32:36Z"
+      "pushed_at": "2026-08-27T09:18:20Z"
     }
   },
   "mcps": {
     "upstash-context7": {
-      "stars": 61222,
-      "forks": 2946,
-      "downloads_total": 1149,
+      "stars": 61288,
+      "forks": 2956,
+      "downloads_total": 1153,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-25T12:06:01Z"
+      "pushed_at": "2026-08-27T10:42:22Z"
     },
     "chrome-devtools-mcp": {
-      "stars": 49719,
-      "forks": 3482,
+      "stars": 49804,
+      "forks": 3493,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-25T14:41:15Z"
+      "pushed_at": "2026-08-27T12:29:48Z"
     },
     "codebase-memory-mcp": {
-      "stars": 40645,
-      "forks": 3293,
-      "downloads_total": 866879,
-      "downloads_30d": 182195,
-      "pushed_at": "2026-08-24T16:02:51Z"
+      "stars": 40844,
+      "forks": 3316,
+      "downloads_total": 886707,
+      "downloads_30d": 198287,
+      "pushed_at": "2026-08-27T12:54:27Z"
     },
     "playwright-mcp": {
-      "stars": 36473,
-      "forks": 3057,
-      "downloads_total": 81852,
+      "stars": 36525,
+      "forks": 3067,
+      "downloads_total": 81934,
       "downloads_30d": 0,
       "pushed_at": "2026-08-21T22:46:04Z"
     },
     "github-mcp-server": {
-      "stars": 32504,
-      "forks": 4851,
-      "downloads_total": 770955,
-      "downloads_30d": 52970,
-      "pushed_at": "2026-08-25T15:48:23Z"
+      "stars": 32546,
+      "forks": 4860,
+      "downloads_total": 781871,
+      "downloads_30d": 57122,
+      "pushed_at": "2026-08-27T10:06:47Z"
     },
     "serena": {
-      "stars": 28498,
-      "forks": 1917,
-      "downloads_total": 1670,
+      "stars": 28535,
+      "forks": 1922,
+      "downloads_total": 1676,
       "downloads_30d": 0,
       "pushed_at": "2026-08-20T06:51:15Z"
     },
     "n8n-mcp": {
-      "stars": 22784,
+      "stars": 22794,
       "forks": 3633,
-      "downloads_total": 281,
-      "downloads_30d": 158,
-      "pushed_at": "2026-08-24T10:04:34Z"
+      "downloads_total": 283,
+      "downloads_30d": 148,
+      "pushed_at": "2026-08-27T09:43:21Z"
     },
     "xiaohongshu-mcp": {
-      "stars": 15479,
-      "forks": 2280,
-      "downloads_total": 224483,
-      "downloads_30d": 47295,
+      "stars": 15506,
+      "forks": 2282,
+      "downloads_total": 227275,
+      "downloads_30d": 46877,
       "pushed_at": "2026-08-24T05:12:40Z"
     },
     "fastapi-mcp": {
-      "stars": 11986,
+      "stars": 11988,
       "forks": 964,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2025-11-24T14:51:54Z"
     },
     "ida-pro-mcp": {
-      "stars": 11589,
-      "forks": 1383,
+      "stars": 11631,
+      "forks": 1387,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-17T13:34:03Z"
     },
     "hexstrike-ai": {
-      "stars": 11364,
-      "forks": 2370,
+      "stars": 11390,
+      "forks": 2374,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-03T14:33:09Z"
     },
     "mcp-use": {
-      "stars": 10526,
-      "forks": 1421,
+      "stars": 10527,
+      "forks": 1422,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-25T19:49:48Z"
+      "pushed_at": "2026-08-27T08:41:27Z"
     },
     "awslabs-mcp": {
-      "stars": 9637,
+      "stars": 9642,
       "forks": 1732,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T02:17:29Z"
+      "pushed_at": "2026-08-27T06:16:12Z"
     },
     "browser-tools-mcp": {
-      "stars": 7298,
-      "forks": 528,
-      "downloads_total": 197534,
+      "stars": 7299,
+      "forks": 527,
+      "downloads_total": 197538,
       "downloads_30d": 0,
       "pushed_at": "2026-08-12T16:48:04Z"
     },
     "firecrawl-mcp": {
-      "stars": 7318,
-      "forks": 862,
+      "stars": 7328,
+      "forks": 865,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-25T21:30:47Z"
+      "pushed_at": "2026-08-26T19:49:10Z"
     },
     "browsermcp": {
-      "stars": 7016,
-      "forks": 553,
+      "stars": 7022,
+      "forks": 554,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2025-04-24T21:49:44Z"
     },
     "xcodebuild-mcp": {
-      "stars": 6286,
+      "stars": 6296,
       "forks": 314,
-      "downloads_total": 33469,
+      "downloads_total": 33636,
       "downloads_30d": 0,
       "pushed_at": "2026-08-12T20:00:35Z"
     },
     "mcp-atlassian": {
-      "stars": 5791,
-      "forks": 1326,
+      "stars": 5799,
+      "forks": 1332,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T23:37:27Z"
+      "pushed_at": "2026-08-26T21:36:03Z"
     },
     "mcp-playwright": {
-      "stars": 5634,
+      "stars": 5637,
       "forks": 533,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2025-12-13T04:28:38Z"
     },
     "financetoolkit": {
-      "stars": 5253,
-      "forks": 611,
+      "stars": 5262,
+      "forks": 613,
       "downloads_total": 159,
       "downloads_30d": 12,
-      "pushed_at": "2026-08-18T12:47:53Z"
+      "pushed_at": "2026-08-27T07:43:10Z"
     },
     "exa-mcp": {
-      "stars": 4927,
+      "stars": 4930,
       "forks": 377,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-21T04:44:51Z"
     },
     "notion-mcp": {
-      "stars": 4605,
+      "stars": 4609,
       "forks": 625,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-07-25T16:20:03Z"
     },
     "mcpo": {
-      "stars": 4355,
-      "forks": 487,
+      "stars": 4357,
+      "forks": 486,
       "downloads_total": 115,
       "downloads_30d": 0,
       "pushed_at": "2026-05-17T20:40:30Z"
     },
     "mcp-server-chart": {
-      "stars": 4339,
-      "forks": 416,
+      "stars": 4342,
+      "forks": 417,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-19T11:23:08Z"
+      "pushed_at": "2026-08-27T01:50:14Z"
     },
     "code-graph-rag": {
-      "stars": 4823,
-      "forks": 638,
-      "downloads_total": 349,
-      "downloads_30d": 242,
-      "pushed_at": "2026-08-26T03:24:29Z"
+      "stars": 4834,
+      "forks": 642,
+      "downloads_total": 373,
+      "downloads_30d": 266,
+      "pushed_at": "2026-08-27T12:52:49Z"
     },
     "excel-mcp": {
-      "stars": 4138,
+      "stars": 4144,
       "forks": 456,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-04-12T06:14:45Z"
     },
     "tabularis": {
-      "stars": 4203,
+      "stars": 4221,
       "forks": 282,
-      "downloads_total": 60686,
-      "downloads_30d": 12834,
-      "pushed_at": "2026-08-25T12:21:04Z"
+      "downloads_total": 61707,
+      "downloads_30d": 11299,
+      "pushed_at": "2026-08-26T18:26:07Z"
     },
     "tradingview-mcp": {
-      "stars": 4226,
-      "forks": 910,
+      "stars": 4242,
+      "forks": 911,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-24T21:40:11Z"
     },
     "flint-chart": {
-      "stars": 3937,
-      "forks": 219,
+      "stars": 3958,
+      "forks": 218,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-26T00:23:35Z"
+      "pushed_at": "2026-08-26T04:26:04Z"
     },
     "apify-mcp": {
-      "stars": 4948,
+      "stars": 5116,
       "forks": 238,
-      "downloads_total": 9981,
-      "downloads_30d": 623,
-      "pushed_at": "2026-08-25T12:11:35Z"
+      "downloads_total": 10001,
+      "downloads_30d": 603,
+      "pushed_at": "2026-08-27T12:34:24Z"
     },
     "dbhub": {
-      "stars": 3403,
-      "forks": 290,
-      "downloads_total": 347,
-      "downloads_30d": 218,
+      "stars": 3414,
+      "forks": 291,
+      "downloads_total": 364,
+      "downloads_30d": 235,
       "pushed_at": "2026-08-21T05:20:06Z"
     },
     "mcp-grafana": {
-      "stars": 3390,
-      "forks": 431,
-      "downloads_total": 220965,
-      "downloads_30d": 15672,
-      "pushed_at": "2026-08-25T23:16:15Z"
+      "stars": 3399,
+      "forks": 430,
+      "downloads_total": 223588,
+      "downloads_30d": 17058,
+      "pushed_at": "2026-08-27T12:54:41Z"
     },
     "ghidra-mcp": {
-      "stars": 3469,
-      "forks": 111,
-      "downloads_total": 48493,
+      "stars": 3554,
+      "forks": 112,
+      "downloads_total": 48992,
       "downloads_30d": 0,
       "pushed_at": "2026-08-21T01:16:40Z"
     },
     "postgres-mcp": {
-      "stars": 3219,
-      "forks": 370,
+      "stars": 3229,
+      "forks": 371,
       "downloads_total": 330,
       "downloads_30d": 0,
       "pushed_at": "2026-08-17T05:06:35Z"
     },
     "linkedin-mcp": {
-      "stars": 3218,
-      "forks": 558,
-      "downloads_total": 11753,
-      "downloads_30d": 1581,
-      "pushed_at": "2026-08-25T23:38:32Z"
+      "stars": 3235,
+      "forks": 559,
+      "downloads_total": 11842,
+      "downloads_30d": 1634,
+      "pushed_at": "2026-08-27T04:27:57Z"
     },
     "fli": {
-      "stars": 3122,
-      "forks": 381,
+      "stars": 3123,
+      "forks": 384,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-07-20T19:24:17Z"
     },
     "arxiv-mcp": {
-      "stars": 3072,
-      "forks": 251,
-      "downloads_total": 284,
-      "downloads_30d": 49,
-      "pushed_at": "2026-08-24T00:00:41Z"
+      "stars": 3083,
+      "forks": 252,
+      "downloads_total": 287,
+      "downloads_30d": 52,
+      "pushed_at": "2026-08-26T23:16:26Z"
     },
     "google-workspace-mcp": {
-      "stars": 3067,
-      "forks": 962,
-      "downloads_total": 7444,
-      "downloads_30d": 165,
-      "pushed_at": "2026-08-26T02:40:27Z"
+      "stars": 3075,
+      "forks": 964,
+      "downloads_total": 7448,
+      "downloads_30d": 167,
+      "pushed_at": "2026-08-27T00:14:42Z"
     },
     "radar": {
-      "stars": 3116,
-      "forks": 183,
-      "downloads_total": 52334,
-      "downloads_30d": 9741,
-      "pushed_at": "2026-08-26T01:48:21Z"
+      "stars": 3142,
+      "forks": 186,
+      "downloads_total": 53426,
+      "downloads_30d": 10785,
+      "pushed_at": "2026-08-27T12:32:10Z"
     },
     "supabase-mcp": {
-      "stars": 2872,
+      "stars": 2873,
       "forks": 399,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-25T20:22:18Z"
+      "pushed_at": "2026-08-27T10:59:54Z"
     },
     "mcp-proxy": {
-      "stars": 2728,
-      "forks": 257,
+      "stars": 2729,
+      "forks": 256,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-07-20T21:05:47Z"
     },
     "jadx-ai-mcp": {
-      "stars": 2707,
-      "forks": 245,
-      "downloads_total": 75457,
-      "downloads_30d": 5187,
+      "stars": 2717,
+      "forks": 246,
+      "downloads_total": 76089,
+      "downloads_30d": 5636,
       "pushed_at": "2026-08-06T15:56:52Z"
     },
     "brightdata-mcp": {
-      "stars": 2610,
+      "stars": 2612,
       "forks": 324,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-12T07:39:54Z"
     },
     "js-reverse-mcp": {
-      "stars": 2605,
-      "forks": 339,
+      "stars": 2614,
+      "forks": 341,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-25T07:03:19Z"
     },
     "paper-search-mcp": {
-      "stars": 2490,
-      "forks": 250,
+      "stars": 2504,
+      "forks": 251,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-17T05:39:02Z"
     },
     "davinci-resolve-mcp": {
-      "stars": 2286,
-      "forks": 256,
+      "stars": 2305,
+      "forks": 261,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-25T11:31:02Z"
     },
     "pg-aiguide": {
-      "stars": 1822,
-      "forks": 105,
+      "stars": 1824,
+      "forks": 106,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-06-26T19:47:09Z"
+      "pushed_at": "2026-08-27T09:22:29Z"
     },
     "slack-mcp-server": {
-      "stars": 1795,
+      "stars": 1799,
       "forks": 363,
-      "downloads_total": 15767,
+      "downloads_total": 15889,
       "downloads_30d": 0,
       "pushed_at": "2026-07-16T17:14:22Z"
     },
     "stripe-agent-toolkit": {
-      "stars": 1763,
-      "forks": 326,
+      "stars": 1768,
+      "forks": 327,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-26T00:21:54Z"
     },
     "anysearch-mcp": {
-      "stars": 1837,
+      "stars": 1838,
       "forks": 183,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-24T03:24:27Z"
     },
     "mcp-language-server": {
-      "stars": 1584,
+      "stars": 1586,
       "forks": 144,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-03-01T23:27:09Z"
     },
     "minimax-mcp": {
-      "stars": 1568,
+      "stars": 1569,
       "forks": 279,
       "downloads_total": 0,
       "downloads_30d": 0,
@@ -1231,26 +1231,26 @@
     "mcp-server-kubernetes": {
       "stars": 1577,
       "forks": 281,
-      "downloads_total": 1695,
-      "downloads_30d": 46,
+      "downloads_total": 1697,
+      "downloads_30d": 39,
       "pushed_at": "2026-08-08T17:15:37Z"
     },
     "mcp-server-qdrant": {
-      "stars": 1514,
+      "stars": 1516,
       "forks": 299,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-14T00:13:56Z"
     },
     "brave-search-mcp": {
-      "stars": 1403,
+      "stars": 1402,
       "forks": 199,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-20T16:12:05Z"
+      "pushed_at": "2026-08-26T12:56:45Z"
     },
     "mysql-mcp": {
-      "stars": 1367,
+      "stars": 1372,
       "forks": 258,
       "downloads_total": 0,
       "downloads_30d": 0,
@@ -1259,7 +1259,7 @@
     "mcp-neo4j": {
       "stars": 979,
       "forks": 257,
-      "downloads_total": 1676,
+      "downloads_total": 1678,
       "downloads_30d": 0,
       "pushed_at": "2026-04-10T18:53:37Z"
     },
@@ -1271,14 +1271,14 @@
       "pushed_at": "2026-08-21T21:11:08Z"
     },
     "elasticsearch-mcp": {
-      "stars": 706,
-      "forks": 146,
-      "downloads_total": 15128,
+      "stars": 708,
+      "forks": 148,
+      "downloads_total": 15138,
       "downloads_30d": 0,
       "pushed_at": "2026-08-25T19:48:31Z"
     },
     "mcp-redis": {
-      "stars": 601,
+      "stars": 605,
       "forks": 110,
       "downloads_total": 0,
       "downloads_30d": 0,
@@ -1286,20 +1286,20 @@
     },
     "mcp-server-milvus": {
       "stars": 242,
-      "forks": 71,
+      "forks": 70,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-11T02:22:58Z"
     },
     "blender-mcp": {
-      "stars": 26307,
-      "forks": 2490,
+      "stars": 26377,
+      "forks": 2495,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T11:12:00Z"
+      "pushed_at": "2026-08-26T07:39:51Z"
     },
     "mcp-obsidian": {
-      "stars": 4339,
+      "stars": 4346,
       "forks": 496,
       "downloads_total": 0,
       "downloads_30d": 0,
@@ -1307,48 +1307,48 @@
     },
     "mongodb-mcp-server": {
       "stars": 1108,
-      "forks": 282,
+      "forks": 281,
       "downloads_total": 143,
-      "downloads_30d": 50,
-      "pushed_at": "2026-08-25T21:03:22Z"
+      "downloads_30d": 43,
+      "pushed_at": "2026-08-27T12:52:49Z"
     },
     "tavily-mcp": {
-      "stars": 2352,
-      "forks": 289,
+      "stars": 2354,
+      "forks": 290,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-20T14:11:49Z"
     },
     "kubernetes-mcp-server": {
-      "stars": 2021,
+      "stars": 2031,
       "forks": 427,
-      "downloads_total": 87491,
-      "downloads_30d": 2876,
-      "pushed_at": "2026-08-25T16:57:59Z"
+      "downloads_total": 87874,
+      "downloads_30d": 3000,
+      "pushed_at": "2026-08-27T01:03:46Z"
     },
     "git-mcp": {
-      "stars": 8345,
-      "forks": 742,
+      "stars": 8353,
+      "forks": 741,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-05-08T14:21:24Z"
     },
     "mcp-toolbox": {
-      "stars": 16258,
-      "forks": 1698,
+      "stars": 16263,
+      "forks": 1700,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-25T23:46:07Z"
+      "pushed_at": "2026-08-27T12:02:51Z"
     },
     "figma-context-mcp": {
-      "stars": 15713,
-      "forks": 1250,
+      "stars": 15723,
+      "forks": 1252,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-07T04:58:42Z"
     },
     "telegram-mcp": {
-      "stars": 1507,
+      "stars": 1515,
       "forks": 394,
       "downloads_total": 0,
       "downloads_30d": 0,
@@ -1369,7 +1369,7 @@
       "pushed_at": "2026-03-11T14:15:06Z"
     },
     "mcp-selenium": {
-      "stars": 425,
+      "stars": 426,
       "forks": 121,
       "downloads_total": 0,
       "downloads_30d": 0,
@@ -1418,7 +1418,7 @@
       "pushed_at": "2025-01-30T21:02:15Z"
     },
     "universal-db-mcp": {
-      "stars": 919,
+      "stars": 920,
       "forks": 92,
       "downloads_total": 0,
       "downloads_30d": 0,
@@ -1453,17 +1453,17 @@
       "pushed_at": "2025-07-14T02:15:28Z"
     },
     "kubectl-mcp-server": {
-      "stars": 955,
-      "forks": 181,
+      "stars": 956,
+      "forks": 182,
       "downloads_total": 88,
       "downloads_30d": 0,
       "pushed_at": "2026-04-08T22:37:48Z"
     },
     "google-workspace-mcp-aaronsb": {
-      "stars": 168,
+      "stars": 169,
       "forks": 50,
-      "downloads_total": 308,
-      "downloads_30d": 45,
+      "downloads_total": 309,
+      "downloads_30d": 46,
       "pushed_at": "2026-08-22T04:49:40Z"
     },
     "mssql-mcp": {
@@ -1474,15 +1474,15 @@
       "pushed_at": "2025-06-05T02:44:43Z"
     },
     "mssql-mcp-csharp": {
-      "stars": 155,
+      "stars": 156,
       "forks": 22,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-01-22T18:15:12Z"
     },
     "mcp-gateway": {
-      "stars": 800,
-      "forks": 88,
+      "stars": 801,
+      "forks": 87,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-25T22:35:37Z"
@@ -1495,14 +1495,14 @@
       "pushed_at": "2026-07-07T11:17:15Z"
     },
     "mcp-telegram": {
-      "stars": 249,
+      "stars": 250,
       "forks": 39,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2025-06-15T10:11:05Z"
     },
     "mcp-sqlserver": {
-      "stars": 37,
+      "stars": 38,
       "forks": 13,
       "downloads_total": 0,
       "downloads_30d": 0,
@@ -1516,50 +1516,50 @@
       "pushed_at": "2026-03-03T13:24:59Z"
     },
     "shopify-mcp": {
-      "stars": 235,
+      "stars": 236,
       "forks": 118,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-04-05T00:29:07Z"
     },
     "godot-mcp": {
-      "stars": 5370,
-      "forks": 461,
+      "stars": 5388,
+      "forks": 462,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-04-16T23:37:00Z"
     },
     "x-reader": {
-      "stars": 955,
-      "forks": 92,
+      "stars": 956,
+      "forks": 91,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-05-31T14:57:15Z"
     },
     "mcpvault": {
-      "stars": 1636,
+      "stars": 1637,
       "forks": 123,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-24T12:06:25Z"
+      "pushed_at": "2026-08-26T13:19:11Z"
     },
     "obsidian-local-rest": {
-      "stars": 2849,
+      "stars": 2858,
       "forks": 335,
-      "downloads_total": 2068399,
-      "downloads_30d": 189928,
-      "pushed_at": "2026-08-25T02:53:15Z"
+      "downloads_total": 2078010,
+      "downloads_30d": 198205,
+      "pushed_at": "2026-08-26T14:00:11Z"
     },
     "google-docs-mcp": {
       "stars": 646,
-      "forks": 209,
+      "forks": 208,
       "downloads_total": 146,
       "downloads_30d": 0,
       "pushed_at": "2026-08-10T15:54:31Z"
     },
     "mcp-server-youtube": {
-      "stars": 565,
-      "forks": 126,
+      "stars": 566,
+      "forks": 127,
       "downloads_total": 0,
       "downloads_30d": 0,
       "pushed_at": "2026-08-08T22:55:53Z"
@@ -1586,9 +1586,9 @@
       "pushed_at": "2026-07-31T01:37:16Z"
     },
     "harbor": {
-      "stars": 3189,
+      "stars": 3192,
       "forks": 223,
-      "downloads_total": 51678,
+      "downloads_total": 51816,
       "downloads_30d": 0,
       "pushed_at": "2026-08-16T12:40:33Z"
     },
@@ -1600,11 +1600,11 @@
       "pushed_at": "2026-04-02T13:12:19Z"
     },
     "figma-mcp-bridge": {
-      "stars": 523,
-      "forks": 69,
-      "downloads_total": 5416,
-      "downloads_30d": 743,
-      "pushed_at": "2026-08-25T10:33:38Z"
+      "stars": 528,
+      "forks": 70,
+      "downloads_total": 5541,
+      "downloads_30d": 866,
+      "pushed_at": "2026-08-26T06:47:08Z"
     },
     "tradingview-chart-mcp": {
       "stars": 100,
@@ -1621,11 +1621,11 @@
       "pushed_at": "2026-05-29T19:35:57Z"
     },
     "graphiti-memory": {
-      "stars": 30308,
-      "forks": 3069,
+      "stars": 30340,
+      "forks": 3076,
       "downloads_total": 0,
       "downloads_30d": 0,
-      "pushed_at": "2026-08-21T01:52:20Z"
+      "pushed_at": "2026-08-26T18:28:50Z"
     }
   },
   "workflows": {}
